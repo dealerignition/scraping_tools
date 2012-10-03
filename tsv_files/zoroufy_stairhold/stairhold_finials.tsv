@@ -1,0 +1,222 @@
+manufacturers_id	finial_name	finial_image_url	rod_type	finish
+1	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/PB/PB_Pine.jpg		Polished Brass
+1	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/PB/PB_Pine.jpg		Polished Brass
+1	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/PB/PB_Round.jpg		Polished Brass
+1	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/PB/PB_Urn.jpg		Polished Brass
+1	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/PB/PB_Pine.jpg		Polished Brass
+1	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/BB/BB_Pine.jpg		Brushed Brass
+1	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/BB/BB_Round.jpg		Brushed Brass
+1	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/BB/BB_Urn.jpg		Brushed Brass
+1	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/BB/BB_Pine.jpg		Brushed Brass
+1	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/AB/AB_Pine.jpg		Antique Brass
+1	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/AB/AB_Round.jpg		Antique Brass
+1	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/AB/AB_Urn.jpg		Antique Brass
+1	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/AB/AB_Pine.jpg		Antique Brass
+1	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/SN/SN_Pine.jpg		Satin Nickel
+1	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/SN/SN_Round.jpg		Satin Nickel
+1	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/SN/SN_Urn.jpg		Satin Nickel
+1	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/SN/SN%20Insp%20Mixed%20Set%20(shows%20all%20finials%20a%20brkt%20and%20rod)%20(2).jpg		Satin Nickel
+2	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/PB/PB_Pine.jpg		Polished Brass
+2	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/PB/PB_Round.jpg		Polished Brass
+2	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/PB/PB_Urn.jpg		Polished Brass
+2	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/BB/BB_Pine.jpg		Brushed Brass
+2	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/BB/BB_Round.jpg		Brushed Brass
+2	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/BB/BB_Urn.jpg		Brushed Brass
+2	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/AB/AB_Pine.jpg		Antique Brass
+2	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/AB/AB_Round.jpg		Antique Brass
+2	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/AB/AB_Urn.jpg		Antique Brass
+2	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/ORB/ORB_Pine.jpg		Oil-Rubbed Bronze
+2	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/ORB/ORB_Pine.jpg		Oil-Rubbed Bronze
+2	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/ORB/ORB_Round.jpg		Oil-Rubbed Bronze
+2	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Select/ORB/ORB_Urn.jpg		Oil-Rubbed Bronze
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/PB/Fluted_Acorn.jpg		Polished Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/BB/Fluted_Acorn.jpg		Brushed Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/AB/Fluted_Acorn.jpg		Antique Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/SN/Fluted_Acorn.jpg		Satin Nickel
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/AP/Fluted_Acorn.jpg		Antique Pewter
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/WI/Fluted_Acorn.jpg		Wrought Iron
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/PB/Fluted_Acorn.jpg	Smth	Polished Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/BB/Fluted_Acorn.jpg	Smth	Brushed Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/AB/Fluted_Acorn.jpg	Smth	Antique Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/SN/Fluted_Acorn.jpg	Smth	Satin Nickel
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/AP/Fluted_Acorn.jpg	Smth	Antique Pewter
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/WI/Fluted_Acorn.jpg	Smth	Wrought Iron
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/PB/Fluted_Acorn.jpg	Fluted	Polished Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/BB/Fluted_Acorn.jpg	Fluted	Brushed Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/AB/Fluted_Acorn.jpg	Fluted	Antique Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/SN/Fluted_Acorn.jpg	Fluted	Satin Nickel
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/AP/Fluted_Acorn.jpg	Fluted	Antique Pewter
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/WI/Fluted_Acorn.jpg	Fluted	Wrought Iron
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/PB/Fluted_Acorn.jpg	Roped	Polished Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/BB/Fluted_Acorn.jpg	Roped	Brushed Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/AB/Fluted_Acorn.jpg	Roped	Antique Brass
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/SN/Fluted_Acorn.jpg	Roped	Satin Nickel
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/AP/Fluted_Acorn.jpg	Roped	Antique Pewter
+3	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Heritage/WI/Fluted_Acorn.jpg	Roped	Wrought Iron
+4	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/PB/Dec_Pine.jpg		Polished Brass
+4	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/PB/Dec_Ball.jpg		Polished Brass
+4	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/PB/Dec_Urn.jpg		Polished Brass
+4	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/PB/Dec_Ball.jpg		Polished Brass
+4	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/BB/BB_Dec_Pine.jpg		Brushed Brass
+4	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/BB/BB_Dec_Ball.jpg		Brushed Brass
+4	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/BB/BB_Dec_Urn.jpg		Brushed Brass
+4	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/BB/BB_Dec_Ball.jpg		Brushed Brass
+4	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/AB/Dec_Pine.jpg		Antique Brass
+4	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/AB/Dec_Ball.jpg		Antique Brass
+4	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/AB/Dec_Urn.jpg		Antique Brass
+4	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/AB/Dec_Ball.jpg		Antique Brass
+4	Pineapple	http://zoroufy.s3.amazonaws.com/		Chrome
+4	Ball	http://zoroufy.s3.amazonaws.com/		Chrome
+4	Urn	http://zoroufy.s3.amazonaws.com/		Chrome
+4	Pyramid	http://zoroufy.s3.amazonaws.com/		Chrome
+4	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/AP/Dec_Pine.jpg		Antique Pewter
+4	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/AP/Dec_Ball.jpg		Antique Pewter
+4	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/AP/Dec_Urn.jpg		Antique Pewter
+4	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/AP/Dec_Ball.jpg		Antique Pewter
+4	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/WI/Dec_Pine.jpg		Wrought Iron
+4	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/WI/Dec_Ball.jpg		Wrought Iron
+4	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/WI/Dec_Urn.jpg		Wrought Iron
+4	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/WI/Dec_Ball.jpg		Wrought Iron
+4	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/ORB/Dec_Pine.jpg		Oil-Rubbed Bronze
+4	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/ORB/Dec_Ball.jpg		Oil-Rubbed Bronze
+4	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/ORB/Dec_Urn.jpg		Oil-Rubbed Bronze
+4	Pyramid	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Sovereign/ORB/Dec_Ball.jpg		Oil-Rubbed Bronze
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Pine.jpg	Smth	Polished Brass
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Acorn.jpg	Smth	Polished Brass
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Acorn.jpg	Smth	Polished Brass
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Acorn.jpg	Smth	Polished Brass
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Pine.jpg	Smth	Brushed Brass
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Acorn.jpg	Smth	Brushed Brass
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Acorn.jpg	Smth	Brushed Brass
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Acorn.jpg	Smth	Brushed Brass
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Pine.jpg	Smth	Antique Brass
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Acorn.jpg	Smth	Antique Brass
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Acorn.jpg	Smth	Antique Brass
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Acorn.jpg	Smth	Antique Brass
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Dec_Roped_Pine.jpg	Smth	Antique Pewter
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Dec_Acorn.jpg	Smth	Antique Pewter
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Fluted_Smth_Ball.jpg	Smth	Antique Pewter
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Dec_Acorn.jpg	Smth	Antique Pewter
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Pine.jpg	Fluted	Polished Brass
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Acorn.jpg	Fluted	Polished Brass
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Acorn.jpg	Fluted	Polished Brass
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Acorn.jpg	Fluted	Polished Brass
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Pine.jpg	Fluted	Brushed Brass
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Acorn.jpg	Fluted	Brushed Brass
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Acorn.jpg	Fluted	Brushed Brass
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Acorn.jpg	Fluted	Brushed Brass
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Pine.jpg	Fluted	Antique Brass
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Acorn.jpg	Fluted	Antique Brass
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Acorn.jpg	Fluted	Antique Brass
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Acorn.jpg	Fluted	Antique Brass
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Dec_Roped_Pine.jpg	Fluted	Antique Pewter
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Dec_Acorn.jpg	Fluted	Antique Pewter
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Fluted_Smth_Ball.jpg	Fluted	Antique Pewter
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Dec_Acorn.jpg	Fluted	Antique Pewter
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Pine.jpg	Roped	Polished Brass
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Acorn.jpg	Roped	Polished Brass
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Acorn.jpg	Roped	Polished Brass
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/PB/Fluted_Dec_Acorn.jpg	Roped	Polished Brass
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Pine.jpg	Roped	Brushed Brass
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Acorn.jpg	Roped	Brushed Brass
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Acorn.jpg	Roped	Brushed Brass
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/BB/BB_Fluted_Dec_Acorn.jpg	Roped	Brushed Brass
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Pine.jpg	Roped	Antique Brass
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Acorn.jpg	Roped	Antique Brass
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Acorn.jpg	Roped	Antique Brass
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AB/AB_Fluted_Dec_Acorn.jpg	Roped	Antique Brass
+5	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Dec_Roped_Pine.jpg	Roped	Antique Pewter
+5	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Dec_Acorn.jpg	Roped	Antique Pewter
+5	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Fluted_Smth_Ball.jpg	Roped	Antique Pewter
+5	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Dynasty/AP/AP_Dec_Acorn.jpg	Roped	Antique Pewter
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/PB/Fluted_Pine.jpg	Smth	Polished Brass
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/PB/Fluted_Urn.JPG	Smth	Polished Brass
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/BB/Fluted_Pine.jpg	Smth	Brushed Brass
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/BB/Fluted_Pine.jpg	Smth	Brushed Brass
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AB/Fluted_Pine.jpg	Smth	Antique Brass
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AB/Fluted_Pine.jpg	Smth	Antique Brass
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AP/Fluted_Pine.jpg	Smth	Antique Pewter
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AP/Fluted_Pine.jpg	Smth	Antique Pewter
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/PB/Fluted_Pine.jpg	Fluted	Polished Brass
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/PB/Fluted_Urn.JPG	Fluted	Polished Brass
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/BB/Fluted_Pine.jpg	Fluted	Brushed Brass
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/BB/Fluted_Pine.jpg	Fluted	Brushed Brass
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AB/Fluted_Pine.jpg	Fluted	Antique Brass
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AB/Fluted_Pine.jpg	Fluted	Antique Brass
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AP/Fluted_Pine.jpg	Fluted	Antique Pewter
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AP/Fluted_Pine.jpg	Fluted	Antique Pewter
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/PB/Fluted_Pine.jpg	Roped	Polished Brass
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/PB/Fluted_Urn.JPG	Roped	Polished Brass
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/BB/Fluted_Pine.jpg	Roped	Brushed Brass
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/BB/Fluted_Pine.jpg	Roped	Brushed Brass
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AB/Fluted_Pine.jpg	Roped	Antique Brass
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AB/Fluted_Pine.jpg	Roped	Antique Brass
+6	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AP/Fluted_Pine.jpg	Roped	Antique Pewter
+6	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Dynasty/AP/Fluted_Pine.jpg	Roped	Antique Pewter
+7	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Pine.JPG	Smth	Polished Brass
+7	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Ball.JPG	Smth	Polished Brass
+7	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Urn.JPG	Smth	Polished Brass
+7	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Acorn.JPG	Smth	Polished Brass
+7	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Pine.JPG	Fluted	Polished Brass
+7	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Ball.JPG	Fluted	Polished Brass
+7	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Urn.JPG	Fluted	Polished Brass
+7	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Acorn.JPG	Fluted	Polished Brass
+7	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Pine.JPG	Roped	Polished Brass
+7	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Ball.JPG	Roped	Polished Brass
+7	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Urn.JPG	Roped	Polished Brass
+7	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Stair%20Jewel/PB/Fluted_Acorn.JPG	Roped	Polished Brass
+8	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/PB/ClassicWH_Acorn_PB.TIF		Polished Brass
+8	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/PB/ClassicWH_Rnd_PB.TIF		Polished Brass
+8	Crown	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/PB/ClassicWH_Crn_PB.TIF		Polished Brass
+8	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/PB/ClassicWH_Urn_PB.TIF		Polished Brass
+8	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/PB/ClassicWH_Acorn_PB.TIF		Polished Brass
+8	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AB/ClassicABAcorn.jpg		Antique Brass
+8	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AB/ClassicABRound.jpg		Antique Brass
+8	Crown	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AB/ClassicABCrown.jpg		Antique Brass
+8	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AB/ClassicABUrn.jpg		Antique Brass
+8	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AB/ClassicABAcorn.jpg		Antique Brass
+8	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AP/ClassicAPAcorn.jpg		Antique Pewter
+8	Round	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AP/ClassicAPRound.jpg		Antique Pewter
+8	Crown	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AP/ClassicAPCrown.jpg		Antique Pewter
+8	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AP/ClassicAPUrn.jpg		Antique Pewter
+8	Acorn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Classic%20WH/AP/ClassicAPAcorn.jpg		Antique Pewter
+9	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/PB/Reg_PB_Pine.jpg		Polished Brass
+9	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/PB/Reg_PB_Ball.jpg		Polished Brass
+9	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/PB/Reg_PB_Urn.jpg		Polished Brass
+9	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/PB/Reg_PB_Ball.jpg		Polished Brass
+9	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/BB/Regency%20BB%20Pineapple.jpg		Brushed Brass
+9	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/BB/Regency%20BB%20Ball.jpg		Brushed Brass
+9	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/BB/Regency%20BB%20Urn.jpg		Brushed Brass
+9	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/BB/Regency%20BB%20Ball.jpg		Brushed Brass
+9	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/AB/REG_Pine_AB.jpg		Antique Brass
+9	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/AB/REG_Ball_AB.jpg		Antique Brass
+9	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/AB/REG_Urn_AB.jpg		Antique Brass
+9	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/AB/REG_Ball_AB.jpg		Antique Brass
+9	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/AP/Regency%20AP%20Pineapple.jpg		Antique Pewter
+9	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/AP/Regency%20AP%20Ball.jpg		Antique Pewter
+9	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/AP/Regency%20AP%20Urn.jpg		Antique Pewter
+9	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/AP/Regency%20AP%20Ball.jpg		Antique Pewter
+9	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/ORB/Reg_Pine_ORB.jpg		Oil-Rubbed Bronze
+9	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/ORB/Reg_Ball_ORB.jpg		Oil-Rubbed Bronze
+9	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/ORB/Reg_Urn_ORB.jpg		Oil-Rubbed Bronze
+9	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Regency%20WH/ORB/Reg_Ball_ORB.jpg		Oil-Rubbed Bronze
+10	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/PB/Greg_Pine.jpg		Polished Brass
+10	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/PB/GReg_Ball.jpg		Polished Brass
+10	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/PB/GReg_Urn.jpg		Polished Brass
+10	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/PB/GReg_Ball.jpg		Polished Brass
+10	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/BB/GReg_Pine.jpg		Brushed Brass
+10	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/BB/GReg_Ball.jpg		Brushed Brass
+10	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/BB/GReg_Urn.jpg		Brushed Brass
+10	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/BB/GReg_Ball.jpg		Brushed Brass
+10	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/AB/GReg_Pine.jpg		Antique Brass
+10	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/AB/GReg_Ball.jpg		Antique Brass
+10	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/AB/GReg_Urn.jpg		Antique Brass
+10	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/AB/GReg_Ball.jpg		Antique Brass
+10	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/AP/GReg_Pine.jpg		Antique Pewter
+10	Ball	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/AP/GReg_Ball.jpg		Antique Pewter
+10	Urn	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/AP/GReg_Urn.jpg		Antique Pewter
+10	Addon Set	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Grand%20Regency%20WH/AP/GReg_Ball.jpg		Antique Pewter
+11	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Legacy%20WH/PB/PB.jpg		Polished Brass
+11	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Legacy%20WH/BB/BB.jpg		Brushed Brass
+11	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Legacy%20WH/AB/AB.jpg		Antique Brass
+11	Pineapple	http://zoroufy.s3.amazonaws.com/Zoroufy%20Product%20Images/Legacy%20WH/AP/AP.jpg		Antique Pewter

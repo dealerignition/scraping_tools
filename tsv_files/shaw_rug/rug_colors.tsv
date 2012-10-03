@@ -1,0 +1,661 @@
+manufacturers_id	color_category	color_name
+1	Shaw Custom	Laurel	
+2	Shaw Custom	Lancaster	
+3	Shaw Custom	Astoria	
+4	Shaw Custom	Lenox	
+5	Shaw Custom	Arabella	
+6	Shaw Custom	Stained Glass	
+7	Shaw Custom	Glass Block	
+8	Shaw Custom	Cosmic	
+9	Shaw Custom	Cocktail	
+10	Shaw Custom	Florabundance	
+11	Shaw Custom	Disco	
+12	Shaw Custom	Palm Patches	
+13	Shaw Custom	November	
+14	Shaw Custom	Forest	
+15	Shaw Custom	Provencal	
+16	Shaw Custom	Mirabella	
+17	Shaw Custom	Legacy	
+18	Shaw Custom	Modern Art	
+19	Shaw Custom	Royal Retreat	
+20	Shaw Custom	El Paso	
+21	Shaw Custom	Garden Fantasy	
+22	Shaw Custom	Lucidity	
+23	Shaw Custom	Affinity II	
+24	Shaw Custom	Bravo	
+25	Shaw Custom	Tapestry	
+26	Shaw Custom	Soho	
+27	Shaw Custom	Izzy	
+28	Shaw Custom	Infinity	
+29	Shaw Custom	Leaves a Plenty	
+30	Shaw Custom	Tribeca	
+31	Shaw Custom	Giselle	
+32	Shaw Custom	Ornament	
+33	Shaw Custom	Storm	
+34	Shaw Custom	Maple	
+35	Shaw Custom	Kendi	
+36	Shaw Custom	Posh	
+37	Shaw Custom	French Countryside	
+38	Shaw Custom	Symphony	
+39	Shaw Custom	Forever In Plaid	
+40	Shaw Custom	Merry Christmas	
+41	Shaw Custom	Janis	
+42	Shaw Custom	Sheridan	
+43	Shaw Custom	Clearwater Cove	
+44	Shaw Custom	Thai	
+45	Shaw Custom	a Stitch In Time	
+46	Shaw Custom	Phoenix	
+47	Shaw Custom	Asian Enchantment	
+48	Shaw Custom	Regency	
+49	Shaw Custom	Zing Garden	
+50	Shaw Custom	Jewels	
+51	Shaw Custom	Gillian	
+52	Shaw Custom	Midnight Savanna	
+53	Shaw Custom	Dashing Thru the Night	
+54	Shaw Custom	Corsica	
+55	Shaw Custom	Stratosphere	
+56	Shaw Custom	Squared Away	
+57	Shaw Custom	Mission	
+58	Shaw Custom	Granite	
+59	Shaw Custom	Vermont Meadow	
+60	Shaw Custom	Mirabella Shag	
+61	Shaw Custom	Beachcomber Bliss	
+62	Shaw Custom	Englewood	
+63	Shaw Custom	Marco	
+64	Shaw Custom	Meadow Flowers	
+65	Shaw Custom	New Leaf	
+66	Shaw Custom	Charlotte	
+67	Shaw Custom	Palladian	
+68	Shaw Custom	Allegro	
+69	Shaw Custom	Blake	
+70	Shaw Custom	Bleeker	
+71	Shaw Custom	Monaco Palms	
+72	Shaw Custom	Zara	
+73	Shaw Custom	Manor	
+74	Shaw Custom	Randolph	
+75	Shaw Custom	Imperial Bouquet	
+76	Shaw Custom	Zoe	
+77	Shaw Custom	Venezia	
+78	Shaw Custom	Twinkle Trees	
+79	Shaw Custom	Cadiz	
+80	Shaw Custom	Hemisphere	
+81	Shaw Custom	Copacabana	
+82	Shaw Custom	Royal Countryside	
+83	Shaw Custom	Let It Snow	
+84	Shaw Custom	Sparta	
+85	Shaw Custom	Nirvana	
+86	Shaw Custom	Flirt	
+87	Shaw Custom	Bahama Bloom	
+88	Shaw Custom	Four Fruits	
+89	Shaw Custom	Cantara	
+90	Shaw Custom	Reverb	
+91	Shaw Custom	Luna De Luna	
+92	Shaw Custom	Palm Frenzy	
+93	Shaw Custom	Aboriginal Lines	
+94	Shaw Custom	Quilted Comfort	
+95	Shaw Custom	Plainview	
+96	Shaw Custom	Natures Carpet	
+97	Shaw Custom	Melinda	
+98	Shaw Custom	Ashby	
+99	Shaw Custom	Calypso	
+100	Shaw Custom	Diva	
+101	Shaw Custom	Flora Bella	
+102	Shaw Custom	Stone Walk	
+103	Shaw Custom	Diamantes	
+104	Shaw Custom	Ethos	
+105	Shaw Custom	Palace Retreat	
+106	Shaw Custom	Kira	
+107	Shaw Custom	Good Karma	
+108	Shaw Custom	Swanzey	
+109	Shaw Custom	Juneau	
+110	Shaw Custom	Evolution	
+111	Shaw Custom	Santa Barbara	
+112	Shaw Custom	Augusta	
+113	Shaw Custom	Tillery Falls	
+114	Shaw Custom	Montecito	
+115	Shaw Custom	Shades Of Paradise	
+116	Shaw Custom	Flora Vista	
+117	Shaw Custom	Grand Milano	
+118	Shaw Custom	Penguins	
+119	Shaw Custom	Milazzo	
+120	Shaw Custom	Imperial Garden	
+121	Shaw Custom	Acanthus	
+122	Shaw Custom	Patchwork	
+123	Shaw Custom	Vintage Bloom	
+124	Shaw Custom	Alyssa	
+125	Shaw Custom	Partridge In a Pear Tree	
+126	Shaw Custom	Olympia	
+127	Shaw Custom	Regent	
+128	Shaw Custom	Desert Bloom	
+129	Shaw Custom	Sanjula	
+130	Shaw Custom	Dancing Bamboo	
+131	Shaw Custom	Winter Bloom	
+132	Shaw Custom	Heritage Heriz	
+133	Shaw Custom	Sierra	
+134	Shaw Custom	Mandalay Grand	
+135	Shaw Custom	Impulse	
+136	Shaw Custom	Border Bouquet	
+137	Shaw Custom	Terra Cotta	
+138	Shaw Custom	Tossed Palm	
+139	Shaw Custom	Palm	
+140	Shaw Custom	Antiquity	
+141	Shaw Custom	Paisley Lagoon	
+142	Shaw Custom	South Seas Silhouette	
+143	Shaw Custom	Lotsa Pineapples	
+144	Shaw Custom	Skyline	
+145	Shaw Custom	Mr. Pete	
+146	Shaw Custom	Kauai Leaves	
+147	Shaw Custom	English Garden	
+148	Shaw Custom	Marinella	
+149	Shaw Custom	European Elegance	
+150	Shaw Custom	Safari Kingdom	
+151	Shaw Custom	Cubist	
+152	Shaw Custom	Jasmine	
+153	Shaw Custom	Darby	
+154	Shaw Custom	Mille Fleur	
+155	Shaw Custom	Garden Leaf	
+156	Shaw Custom	Transit	
+157	Shaw Custom	Havana Bay	
+158	Shaw Custom	Millstone	
+159	Shaw Custom	Zanzibar	
+160	Shaw Custom	Cadential	
+161	Shaw Custom	Willow	
+162	Shaw Custom	Bookshop	
+163	Shaw Custom	Washington Square	
+164	Shaw Custom	Matrix	
+165	Shaw Custom	Providence	
+166	Shaw Custom	Miramar	
+167	Shaw Custom	Mod Links	
+168	Shaw Custom	Parisienne	
+169	Shaw Custom	Shelburne	
+170	Shaw Custom	Island Breeze	
+171	Shaw Custom	Callisto	
+172	Shaw Custom	Basilica	
+173	Shaw Custom	Eastern Market	
+174	Shaw Custom	Fleur	
+175	Shaw Custom	Compositions	
+176	Shaw Custom	Cityscape	
+177	Shaw Custom	Watercolors	
+178	Shaw Custom	Via Verde	
+179	Shaw Custom	Coco	
+180	Shaw Custom	Taylor	
+181	Shaw Custom	Majestic Leopard	
+182	Shaw Custom	Sonnet	
+183	Shaw Custom	Koko	
+184	Shaw Custom	Mojo	
+185	Shaw Custom	Biometric	
+186	Shaw Custom	Painted Palms	
+187	Shaw Custom	Laurel Springs	
+188	Shaw Custom	Beaumont	
+189	Shaw Custom	Primavera	
+190	Shaw Custom	Delray	
+191	Shaw Custom	Bungalow	
+192	Shaw Custom	Kashan	
+193	Shaw Custom	Bentley	
+194	Shaw Custom	Buenos Aires	
+195	Shaw Custom	Andora	
+196	Shaw Custom	Starlight Stroll	
+197	Shaw Custom	Versailles	
+198	Shaw Custom	Polynesian Palms	
+199	Shaw Custom	Christmas Toys	
+200	Shaw Custom	Stateroom	
+201	Shaw Custom	Verona	
+202	Shaw Custom	Isabella	
+203	Shaw Custom	Madison Girl	
+204	Shaw Custom	Mashhad	
+205	Shaw Custom	Chamelon	
+206	Shaw Custom	Mystic Canyon	
+207	Shaw Custom	Nomadic Elegance	
+208	Shaw Custom	Capri	
+209	Shaw Custom	Polar Bears	
+210	Shaw Custom	Milan	
+211	Shaw Custom	English Floral	
+212	Shaw Custom	Paradise	
+213	Shaw Custom	Volcano Dusk	
+214	Shaw Custom	Harrington	
+215	Shaw Custom	Nightlife	
+216	Shaw Custom	American Jewel	
+217	Shaw Custom	Etheridge	
+218	Shaw Custom	Italian Garden	
+219	Shaw Custom	Domino	
+220	Shaw Custom	Royal Riviera	
+221	Shaw Custom	Timeless Elegance	
+222	Shaw Custom	Lola	
+223	Shaw Custom	Orbetello	
+224	Shaw Custom	Christmas Tree	
+225	Shaw Custom	Circa	
+226	Shaw Custom	Italian Vineyard	
+227	Shaw Custom	Neo	
+228	Shaw Custom	Sedona	
+229	Shaw Custom	Cadia	
+230	Shaw Custom	Easton	
+231	Shaw Custom	Napa	
+232	Shaw Custom	Archival Fern	
+233	Shaw Custom	Lumani	
+234	Shaw Custom	Magnolias	
+235	Shaw Custom	Three Shells	
+236	Shaw Custom	Taranto	
+237	Shaw Custom	Antique Manor	
+238	Shaw Custom	Zaria	
+239	Shaw Custom	Wynstone	
+240	Shaw Custom	El Rey	
+241	Shaw Custom	Tahitian Breeze	
+242	Shaw Custom	Island Montage	
+243	Shaw Custom	Delilah	
+244	Shaw Custom	Madison Boy	
+245	Shaw Custom	Jungle Tumble	
+246	Shaw Custom	Waterbury	
+247	Shaw Custom	Casablanca	
+248	Shaw Custom	Elise	
+249	Shaw Custom	Loft	
+250	Shaw Custom	Safari Trellis	
+251	Shaw Custom	Roosevelt	
+252	Shaw Custom	Promenade	
+253	Shaw Custom	Oleander Breeze	
+254	Shaw Custom	Emeralda	
+255	Shaw Custom	Galaxy	
+256	Shaw Custom	Sienna	
+257	Shaw Custom	Royal Sultanabad	
+258	Shaw Custom	Pinwheel	
+259	Shaw Custom	Echo	
+260	Shaw Custom	Madrid	
+261	Shaw Custom	Prairie	
+262	Shaw Custom	Paradise Tiles	
+263	Shaw Custom	Union Square	
+264	Shaw Custom	Buckingham	
+265	Shaw Custom	Marrakech	
+266	Shaw Custom	Queen Anne's Lace	
+267	Shaw Custom	Love Safari	
+268	Shaw Custom	Garden Bloom	
+269	Shaw Custom	Canyon Trail	
+270	Shaw Custom	Sonnet Border	
+271	Shaw Custom	Kalahari	
+272	Shaw Custom	Spherescape	
+273	Shaw Custom	Monza	
+274	Shaw Custom	India	
+275	Shaw Custom	Holiday Mix	
+276	Shaw Custom	Hollywood	
+277	Shaw Custom	Persian Tapestry	
+278	Shaw Custom	Pineapple	
+279	Shaw Custom	Orbit	
+280	Shaw Custom	Jillian's Garden	
+281	Shaw Custom	Pomona	
+282	Shaw Custom	a La Playa	
+283	Shaw Custom	Royal Treasure	
+284	Shaw Custom	Dreams And Dogwood	
+285	Shaw Custom	Josephine	
+286	Shaw Custom	Gio	
+287	Shaw Custom	Azhar	
+288	Shaw Custom	Palms Away	
+289	Shaw Custom	Deco	
+290	Shaw Custom	Forest Ferns	
+291	Shaw Custom	Fling	
+292	Shaw Custom	Empress Garden	
+293	Shaw Custom	Grid Block	
+294	Shaw Custom	Flores Del Sol	
+295	Shaw Custom	Mandara	
+296	Shaw Custom	Checkmate	
+297	Shaw Custom	Zybra	
+298	Shaw Custom	Synergy	
+299	Shaw Custom	Kingsley	
+300	Shaw Custom	Holiday Greetings	
+301	Shaw Custom	Hamadan	
+302	Shaw Custom	Ultra Shag	
+303	Shaw Custom	Stella	
+304	Shaw Custom	Salina	
+305	Shaw Custom	Sabicu	
+306	Shaw Custom	Contempo	
+307	Shaw Custom	Turtle Bay	
+308	Shaw Custom	Candy Stripes	
+309	Shaw Custom	Lemon Grass	
+310	Shaw Custom	Santa Cruz	
+311	Shaw Custom	Johari	
+312	Shaw Custom	Pueblo	
+313	Shaw Custom	Bodini	
+314	Shaw Custom	Medallion Veggies	
+315	Shaw Custom	Genoa	
+316	Shaw Custom	Swirl	
+317	Shaw Custom	Majesty	
+318	Shaw Custom	Abstracted Leaf	
+319	Shaw Custom	Tapestry Garden	
+320	Shaw Custom	Domingo	
+321	Shaw Custom	Danforth	
+322	Shaw Custom	Chateau	
+323	Shaw Custom	Morningside	
+324	Shaw Custom	Chloe	
+325	Shaw Custom	Safari Leaves	
+326	Shaw Custom	Snowflakes	
+327	Shaw Custom	Bear Country	
+328	Shaw Custom	Holiday Wreath	
+329	Shaw Custom	Almeria	
+330	Shaw Custom	Opposites Pink	
+331	Shaw Custom	Bazaar	
+332	Shaw Custom	Weaver's Blanket	
+333	Shaw Custom	Carnival Bloom	
+334	Shaw Custom	Jillies Tapestry	
+335	Shaw Custom	Henley	
+336	Shaw Custom	Playball	
+337	Shaw Custom	Bennington	
+338	Shaw Custom	Lilihan	
+339	Shaw Custom	Mum's the Word	
+340	Shaw Custom	Derby	
+341	Shaw Custom	Garden Romance	
+342	Shaw Custom	Pop Patterns	
+343	Shaw Custom	Franklin	
+344	Shaw Custom	Addison	
+345	Shaw Custom	Idyll	
+346	Shaw Custom	Safari Floral	
+347	Shaw Custom	Veranda	
+348	Shaw Custom	Somerset House	
+349	Shaw Custom	Noel	
+350	Shaw Custom	Horizons	
+351	Shaw Custom	Pond	
+352	Shaw Custom	Wilmington	
+353	Shaw Custom	Affinity	
+354	Shaw Custom	Barcelona	
+355	Shaw Custom	Island Jewels	
+356	Shaw Custom	Karma	
+357	Shaw Custom	Sapelo	
+358	Shaw Custom	Avondale	
+359	Shaw Custom	Hampton Court	
+360	Shaw Custom	Stone Path	
+361	Shaw Custom	Broadway	
+362	Shaw Custom	Palatial Palms	
+363	Shaw Custom	Alexandria	
+364	Shaw Custom	Casanova	
+365	Shaw Custom	Tempo	
+366	Shaw Custom	South Beach	
+367	Shaw Custom	Dresden	
+368	Shaw Custom	Hearthside	
+369	Shaw Custom	Lisbon	
+370	Shaw Custom	Bijoux	
+371	Shaw Custom	Eco	
+372	Shaw Custom	Flourish	
+373	Shaw Custom	Beqir	
+374	Shaw Custom	Lillian	
+375	Shaw Custom	Kate	
+376	Shaw Custom	Cordoba	
+377	Shaw Custom	Whispering Woods	
+378	Shaw Custom	Safari Bamboo	
+379	Shaw Custom	Calypso Night	
+380	Shaw Custom	Modern Plains	
+381	Shaw Custom	City Block	
+382	Shaw Custom	Painted Willow	
+383	Shaw Custom	Vintage Lei	
+384	Shaw Custom	Field Feathers	
+385	Shaw Custom	Vision	
+386	Shaw Custom	Bastia	
+387	Shaw Custom	Old St. Nick	
+388	Shaw Custom	Moderne	
+389	Shaw Custom	Stately Empire	
+390	Shaw Custom	Ornaments	
+391	Shaw Custom	Garden Girl	
+392	Shaw Custom	Chandy	
+393	Shaw Custom	Spellbound	
+394	Shaw Custom	Juliard	
+395	Shaw Custom	Patina	
+396	Shaw Custom	Delta	
+397	Shaw Custom	Barn Door	
+398	Shaw Custom	Cha Cha	
+399	Shaw Custom	Edison	
+400	Shaw Custom	Multi Pansies	
+401	Shaw Custom	Bird Study	
+402	Shaw Custom	Athens	
+403	Shaw Custom	Mayfair	
+404	Shaw Custom	Mia	
+405	Shaw Custom	Ashford Park	
+406	Shaw Custom	Chrisfield	
+407	Shaw Custom	Essence	
+408	Shaw Custom	Jules	
+409	Shaw Custom	Asher	
+410	Shaw Custom	Algiers	
+411	Shaw Custom	Island Bloom	
+412	Shaw Custom	Safari Skin	
+413	Shaw Custom	Jet Stream	
+414	Shaw Custom	Seaspray Damask	
+415	Shaw Custom	Traders Blanket	
+416	Shaw Custom	Sunburst	
+417	Shaw Custom	Parallel	
+418	Shaw Custom	Kashmir	
+419	Shaw Custom	Jade	
+420	Shaw Custom	Ovation	
+421	Shaw Custom	Cadence	
+422	Shaw Custom	Hawaii Ranch	
+423	Shaw Custom	Exotic Journey	
+424	Shaw Custom	Lake House	
+425	Shaw Custom	Lexington	
+426	Shaw Custom	Sandbar	
+427	Shaw Custom	Full Moon	
+428	Shaw Custom	Hibiscus Heaven	
+429	Shaw Custom	Terra	
+430	Shaw Custom	City Streets	
+431	Shaw Custom	Haiku	
+432	Shaw Custom	Cartagena	
+433	Shaw Custom	Tabriz Trellis	
+434	Shaw Custom	Persia	
+435	Shaw Custom	Austin	
+436	Shaw Custom	Desert Bloom Border	
+437	Shaw Custom	Mayfield	
+438	Shaw Custom	Rattan	
+439	Shaw Custom	Tifton	
+440	Shaw Custom	Francis	
+441	Shaw Custom	Chateau Brittany	
+442	Shaw Custom	Notting Hill	
+443	Shaw Custom	Mission Leaf	
+444	Shaw Custom	Radius	
+445	Shaw Custom	Astrid	
+446	Shaw Custom	Grand Expressions	
+447	Shaw Custom	Trellis	
+448	Shaw Custom	Taos	
+449	Shaw Custom	Butterfly Fantasy	
+450	Shaw Custom	Bengali Border	
+451	Shaw Custom	Monaco	
+452	Shaw Custom	Facets	
+453	Shaw Custom	Contessa	
+454	Shaw Custom	Tivoli	
+455	Shaw Custom	Tropical Isle	
+456	Shaw Custom	Savonnerie	
+457	Shaw Custom	Glenmoor	
+458	Shaw Custom	Kashmar	
+459	Shaw Custom	Rustic Oak	
+460	Shaw Custom	Pagosa Springs	
+461	Shaw Custom	Marina	
+462	Shaw Custom	Chesapeake	
+463	Shaw Custom	Cherry Pop	
+464	Shaw Custom	Nena	
+465	Shaw Custom	Anchors Aweigh	
+466	Shaw Custom	Painted Desert	
+467	Shaw Custom	Holiday Sweets	
+468	Shaw Custom	Olive Diamond	
+469	Shaw Custom	Red Poppy	
+470	Shaw Custom	Island Flower	
+471	Shaw Custom	Giraffe	
+472	Shaw Custom	Marciana	
+473	Shaw Custom	Jourdain	
+474	Shaw Custom	New York Skyline	
+475	Shaw Custom	Fractals	
+476	Shaw Custom	Woodlands	
+477	Shaw Custom	Canberra Ikat	
+478	Shaw Custom	Soraya	
+479	Shaw Custom	Destinations	
+480	Shaw Custom	Caucasian	
+481	Shaw Custom	Ikat Panel	
+482	Shaw Custom	Garden Vine	
+483	Shaw Custom	Upper East Side	
+484	Shaw Custom	Trellis Leaf	
+485	Shaw Custom	Artist's Palette	
+486	Shaw Custom	Tango	
+487	Shaw Custom	Tuscan Vineyards	
+488	Shaw Custom	Silver Sands	
+489	Shaw Custom	Ashbury	
+490	Shaw Custom	Tanzania	
+491	Shaw Custom	Aldo	
+492	Shaw Custom	Kenya	
+493	Shaw Custom	Barnwood	
+494	Shaw Custom	Winter Night	
+495	Shaw Custom	Carnival Palms	
+496	Shaw Custom	Bergamo	
+497	Shaw Custom	Madison	
+498	Shaw Custom	Trim the Tree	
+499	Shaw Custom	Kenyan Plains	
+500	Shaw Custom	Bali Kai Retreat	
+501	Shaw Custom	Kimono	
+502	Shaw Custom	Jardin De France	
+503	Shaw Custom	Royal Shimmer	
+504	Shaw Custom	Scotties	
+505	Shaw Custom	Jaku	
+506	Shaw Custom	Roxy	
+507	Shaw Custom	Maison Rooster	
+508	Shaw Custom	Andalusia	
+509	Shaw Custom	Devonshire	
+510	Shaw Custom	Mezzo	
+511	Shaw Custom	Loop De Loop	
+512	Shaw Custom	Quilter's Art	
+513	Shaw Custom	Umbra	
+514	Shaw Custom	Umber	
+515	Shaw Custom	Go Go	
+516	Shaw Custom	Percussion	
+517	Shaw Custom	Batik Leaf	
+518	Shaw Custom	Fusion	
+519	Shaw Custom	Brookhaven	
+520	Shaw Custom	Windsor	
+521	Shaw Custom	the Ollie Rug	
+522	Shaw Custom	Rooftops	
+523	Shaw Custom	Merry Jumble	
+524	Shaw Custom	Wine Vista	
+525	Shaw Custom	Beachside Stripe	
+526	Shaw Custom	Island Batik-t	
+527	Shaw Custom	Garden Gate	
+528	Shaw Custom	Avalon	
+529	Shaw Custom	Zaza	
+530	Shaw Custom	Snowfall	
+531	Shaw Custom	Mojave	
+532	Shaw Custom	Intertwine	
+533	Shaw Custom	Sunflower Medley	
+534	Shaw Custom	Forever Blossoms	
+535	Shaw Custom	Leopard	
+536	Shaw Custom	Antique Bidjar	
+537	Shaw Custom	Cyprus	
+538	Shaw Custom	Chablis	
+539	Shaw Custom	Manor Border	
+540	Shaw Custom	Dino Dreams	
+541	Shaw Custom	Uptown	
+542	Shaw Custom	Wild Savanna	
+543	Shaw Custom	Durango Ranch	
+544	Shaw Custom	Kaleidoscope	
+545	Shaw Custom	Chateau Garden	
+546	Shaw Custom	Bryce	
+547	Shaw Custom	Mandalay	
+548	Shaw Custom	Tamara	
+549	Shaw Custom	Audrina	
+550	Shaw Custom	Rhodes	
+551	Shaw Custom	Flying Machine	
+552	Shaw Custom	Cabana Palms	
+553	Shaw Custom	Arts And Crafts	
+554	Shaw Custom	Dunes	
+555	Shaw Custom	Camilla	
+556	Shaw Custom	Nutcrackers	
+557	Shaw Custom	Stratford	
+558	Shaw Custom	Cicily	
+559	Shaw Custom	Florentine	
+560	Shaw Custom	Kilimanjaro	
+561	Shaw Custom	Chocolate Mint	
+562	Shaw Custom	Sunshine	
+563	Shaw Custom	Rhythm	
+564	Shaw Custom	Vienna	
+565	Shaw Custom	Tiny Dancer	
+566	Shaw Custom	Forest Floor	
+567	Shaw Custom	Luau	
+568	Shaw Custom	West Indies Safari	
+569	Shaw Custom	Collage	
+570	Shaw Custom	Seasons	
+571	Shaw Custom	Tropical Ports	
+572	Shaw Custom	Laurent	
+573	Shaw Custom	Cipollini Trellis	
+574	Shaw Custom	Venice	
+575	Shaw Custom	Lovelines	
+576	Shaw Custom	Meshed	
+577	Shaw Custom	Aubusson	
+578	Shaw Custom	Moroccan Mosaic	
+579	Shaw Custom	Highland	
+580	Shaw Custom	Lyric	
+581	Shaw Custom	Autumn Grove	
+582	Shaw Custom	Mr. And Mrs.	
+583	Shaw Custom	Ribbons Of Life	
+584	Shaw Custom	Tis the Season	
+585	Shaw Custom	Olivia	
+586	Shaw Custom	Della	
+587	Shaw Custom	Salem Glass	
+588	Shaw Custom	Outback	
+589	Shaw Custom	Safari Garden	
+590	Shaw Custom	Aruba	
+591	Shaw Custom	Ambrosia	
+592	Shaw Custom	New Mexico	
+593	Shaw Custom	Magnolia Memories	
+594	Shaw Custom	Jazz Age	
+595	Shaw Custom	Elipse	
+596	Shaw Custom	Sandia	
+597	Shaw Custom	Santa Fe Mosaic	
+598	Shaw Custom	Isadora	
+599	Shaw Custom	Peacock	
+600	Shaw Custom	Coffee House	
+601	Shaw Custom	Shibori	
+602	Shaw Custom	Corinth	
+603	Shaw Custom	Lima	
+604	Shaw Custom	Zimbabwe	
+605	Shaw Custom	Dakota	
+606	Shaw Custom	Fleurescent	
+607	Shaw Custom	Toby	
+608	Shaw Custom	Phoenicia	
+609	Shaw Custom	Castlehill Park	
+610	Shaw Custom	Jessamine	
+611	Shaw Custom	Coventry	
+612	Shaw Custom	Opposites Blue	
+613	Shaw Custom	Carnivale	
+614	Shaw Custom	Amina	
+615	Shaw Custom	El Palicio	
+616	Shaw Custom	Artesian	
+617	Shaw Custom	Nautical Voyages	
+618	Shaw Custom	Urban Jungle	
+619	Shaw Custom	Mesa	
+620	Shaw Custom	Mystique	
+621	Shaw Custom	Florist Greens	
+622	Shaw Custom	Rochester	
+623	Shaw Custom	Aura	
+624	Shaw Custom	Dancing Lotus	
+625	Shaw Custom	Metro	
+626	Shaw Custom	Murri Suzani	
+627	Shaw Custom	Senneh	
+628	Shaw Custom	Lauren	
+629	Shaw Custom	Branches And Blossoms	
+630	Shaw Custom	Midtown	
+631	Shaw Custom	Hamptons	
+632	Shaw Custom	Greystone	
+633	Shaw Custom	Frond Memories	
+634	Shaw Custom	Mosque Medallion	
+635	Shaw Custom	Eliza	
+636	Shaw Custom	Paisley Block	
+637	Shaw Custom	Hula	
+638	Shaw Custom	Plantation	
+639	Shaw Custom	Wave Rider	
+640	Shaw Custom	Linville	
+641	Shaw Custom	Port Royal Medallion	
+642	Shaw Custom	Sunset Palms	
+643	Shaw Custom	Fuji	
+644	Shaw Custom	Conway	
+645	Shaw Custom	Cape Jewel	
+646	Shaw Custom	Karina	
+647	Shaw Custom	Khorassan	
+648	Shaw Custom	Westgate	
+649	Shaw Custom	Delphine	
+650	Shaw Custom	Vallero	
+651	Shaw Custom	Volos	
+652	Shaw Custom	Buckingham Border	
+653	Shaw Custom	All-over Tabriz	
+654	Shaw Custom	Ashford	
+655	Shaw Custom	Nova	
+656	Shaw Custom	Sundown	
+657	Shaw Custom	Antigua	
+658	Shaw Custom	Naples	
+659	Shaw Custom	Maple Ridge	
+660	Shaw Custom	Luna
