@@ -1,0 +1,436 @@
+Carpet ID	Color Name
+Braid	Chateau Manor
+Braid	Chateau Manor
+Braid	Chateau Manor
+Braid	Chateau Manor
+Braid	Chateau Manor
+Braid	Chateau Manor
+Braid	La Maison
+Braid	La Maison
+Braid	La Maison
+Braid	La Maison
+Braid	La Maison
+Braid	Brandywine
+Braid	Brandywine
+Braid	Merlot
+Braid	Merlot
+Braid	Merlot
+Williston	Khaki
+Williston	Khaki
+Williston	Gold Leaf
+Williston	Mist
+Williston	Mist
+Williston	Mist
+Williston	Mist
+Williston	Cocoa
+Williston	Sandstone
+Williston	Sandstone
+Williston	Charcoal
+Williston	Charcoal
+Williston	Silverton
+Williston	Silverton
+Williston	Silverton
+Williston	Timeless
+Williston	Timeless
+Williston	Ivory
+Williston	Black Sea
+Williston	Bronze
+Williston	Bronze
+Williston	Venice
+Williston	Venice
+Allure	Khaki
+Allure	Khaki
+Allure	Gold Leaf
+Allure	Sandstone
+Allure	Sandstone
+Allure	Silverton
+Allure	Silverton
+Allure	Silverton
+Allure	Ivory
+Allure	Bronze
+Allure	Bronze
+Allure	Venice
+Allure	Venice
+Vintage Tweed	Porcelain
+Vintage Tweed	Porcelain
+Vintage Tweed	Wheaten
+Vintage Tweed	Wheaten
+Vintage Tweed	Bisque
+Vintage Tweed	Bisque
+Vintage Tweed	Slate
+Vintage Tweed	Umber
+Vintage Tweed	Burnt Sienna
+Vintage Tweed	Olivene
+Vintage Tweed	Moccasin
+Vintage Tweed	Moccasin
+Vintage Tweed	Haze
+Vintage Tweed	Haze
+Vintage Tweed	Antique
+Vintage Tweed	Antique
+Vintage Tweed	Cornsilk
+Vintage Tweed	Cornsilk
+Vintage Tweed	Golden
+Marquess	Parchment
+Marquess	Parchment
+Marquess	Tussah
+Marquess	Tussah
+Marquess	Butternut
+Marquess	Nutmeg
+Marquess	Nutmeg
+Marquess	Goldenrod
+Marquess	Ivory
+Marquess	Lichen
+Marquess	Toffee
+Marquess	Toffee
+Marquess	Sienna
+Marquess	Cordovan
+Wool Tip Shear	Cachet Cream 
+Wool Tip Shear	Classic Khaki
+Wool Tip Shear	Classic Khaki
+Wool Tip Shear	Chocolate
+Wool Tip Shear	Chocolate
+Wool Tip Shear	Tranquility
+Wool Tip Shear	Vanilla
+Wool Tip Shear	Vanilla
+Wool Tip Shear	Gold Leaf
+Wool Tip Shear	Mocha
+Wool Tip Shear	Mocha
+Wool Tip Shear	Silverton
+Wool Tip Shear	Silverton
+Wall Street	Black Tie
+Wall Street	Black Tie
+Shimmer	Black Tie
+Shimmer	Black Tie
+Empire	Black Tie
+Empire	Black Tie
+Black Jack	Black Tie
+Black Jack	Black Tie
+Tibetan Fantasy	Palace Gardens
+Tibetan Fantasy	Palace Gardens
+Tibetan Fantasy	Timeless Jewels
+Tibetan Fantasy	Timeless Jewels
+Tibetan Fantasy	Timeless Jewels
+Tibetan Fantasy	Castle Brown
+Tibetan Fantasy	Castle Brown
+Tibetan Fantasy	Castle Brown
+Tibetan Fantasy	Clay Sculpture
+Tibetan Fantasy	Clay Sculpture
+Tibetan Fantasy	Exotic Beads
+Tibetan Fantasy	Golden Mirage
+Tibetan Fantasy	Fresco
+Tibetan Fantasy	Fresco
+Tibetan Fantasy	Oasis
+Tibetan Fantasy	Oasis
+Tibetan Fantasy	Fountain Moss
+Tibetan Fantasy	Fountain Moss
+Sunsation	Sweet Breeze
+Sunsation	Sweet Breeze
+Sunsation	Summertime
+Sunsation	Summertime
+Sunsation	French Garden
+Sunsation	French Garden
+Sunsation	French Garden
+Sunsation	Melody
+Sunsation	Melody
+Sunsation	Morning Sky
+Sunsation	Morning Sky
+Sunsation	Bouquet
+Sunsation	Bouquet
+Sunburst	Sweet Breeze
+Sunburst	Sweet Breeze
+Sunburst	Summertime
+Sunburst	Summertime
+Sunburst	French Garden
+Sunburst	French Garden
+Sunburst	French Garden
+Sunburst	Melody
+Sunburst	Melody
+Sunburst	Morning Sky
+Sunburst	Morning Sky
+Sunburst	Bouquet
+Sunburst	Bouquet
+Stone Canyon	Oatmeal
+Stone Canyon	Oatmeal
+Stone Canyon	Linen
+Stone Canyon	Taupe
+Stone Canyon	Greystone
+Stone Canyon	Greystone
+Sequence	Pearl
+Sequence	Pearl
+Sequence	Pearl
+Sequence	Pearl
+Sequence	Diamond
+Sequence	Diamond
+Sequence	Jasper
+Sequence	Jasper
+Sequence	Quartz
+Sequence	Aquamarine
+Sequence	Aquamarine
+Sequence	Turquoise
+Sequence	Turquoise
+Sequence	Alexandrite
+Sequence	Alexandrite
+Sequence	Peridot
+Sequence	Peridot
+Sequence	Garnet
+Sequence	Amber
+Sequence	Amber
+Sequence	Onyx
+Sequence	Onyx
+Sequence	Onyx
+Sequence	Black Opal
+Sequence	Black Opal
+San Marco Square	Murano Glass
+San Marco Square	Murano Glass
+San Marco Square	Murano Glass
+San Marco Square	La Cr?Me
+San Marco Square	La Cr?Me
+San Marco Square	La Cr?Me
+San Marco Square	Terrace Sage
+San Marco Square	Terrace Sage
+San Marco Square	Cathedral Shadow
+San Marco Square	Cathedral Shadow
+San Marco Square	Golden Venetian
+San Marco Square	Golden Venetian
+San Marco Square	Piazza
+San Marco Square	Piazza
+San Marco Square	Cafe Florian
+San Marco Square	Cafe Florian
+Palladian	Imperial Ivory
+Palladian	Tranquility
+Palladian	Vanilla
+Palladian	Classic Khaki
+Palladian	Classic Khaki
+Palladian	Meadow Mist
+Palladian	Meadow Mist
+Palladian	Gold Leaf
+Palladian	Cachet Cream
+Palladian	Chiffon
+Palladian	Lemon Zest
+Palladian	Mohave
+Palladian	Mohave
+Palladian	Topaz
+Palladian	Viva Gold
+Palladian	Costa Mesa
+Palladian	Costa Mesa
+Palladian	Villa Moss
+Palladian	Bonsai Tint
+Palladian	Fusion
+Palladian	Olive
+Palladian	Avocado
+Palladian	Touch Of Teal
+Palladian	Touch Of Teal
+Palladian	Aqua Ice
+Palladian	Blue Mist
+Palladian	Blushing
+Palladian	Melon
+Palladian	Sizzle
+Palladian	Wispy Peach
+Palladian	Peach Medley
+Palladian	Apricot
+Palladian	Apricot
+Palladian	Sienna
+Palladian	Henna
+Palladian	Moroccan
+Palladian	Moroccan
+Palladian	Universal Grey
+Palladian	Universal Grey
+Palladian	Cashmere
+Palladian	Brownfield
+Palladian	Brownfield
+Palladian	Chocolate
+Palladian	Cocoa
+Palladian	Cranberry Grape
+Newport	Sea Spray
+Newport	Surfside
+Newport	Surfside
+Newport	Catamaran Point
+Newport	Catamaran Point
+Newport	Harbor Night
+Newport	Ivory Coast
+Newport	Shell Mist
+Newport	Beach Island
+Newport	Driftwood Trace
+Newport	Sandstone Cream
+Newport	Bungalow Beige
+Newport	Sunset View
+Newport	 Cabana
+Newport	Gentle Wind
+Newport	Wild Dunes
+Newport	Paradise Green
+Newport	 Emerald Lagoon
+Nepal	Teaberry
+Nepal	Wisteria
+Nepal	Buoyant
+Nepal	Enticing
+Nepal	Sole'
+Nepal	Glisten
+Nepal	Citrine
+Nepal	Haven
+Nepal	Java
+Nepal	Java
+Nepal	Monarch
+Nepal	Tiger Eye
+Nepal	Escapade
+Legends	Imperial Ivory
+Legends	Tranquility
+Legends	Vanilla
+Legends	Classic Khaki
+Legends	Classic Khaki
+Legends	Meadow Mist
+Legends	Meadow Mist
+Legends	Gold Leaf
+Legends	Cachet Cream
+Legends	Chiffon
+Legends	Lemon Zest
+Legends	Mohave
+Legends	Mohave
+Legends	Topaz
+Legends	Viva Gold
+Legends	Costa Mesa
+Legends	Costa Mesa
+Legends	Villa Moss
+Legends	Bonsai Tint
+Legends	Fusion
+Legends	Olive
+Legends	Avocado
+Legends	Touch Of Teal
+Legends	Touch Of Teal
+Legends	Aqua Ice
+Legends	Blue Mist
+Legends	Blushing
+Legends	Melon
+Legends	Sizzle
+Legends	Wispy Peach
+Legends	Peach Medley
+Legends	Apricot
+Legends	Apricot
+Legends	Sienna
+Legends	Henna
+Legends	Moroccan
+Legends	Moroccan
+Legends	Universal Grey
+Legends	Universal Grey
+Legends	Cashmere
+Legends	Brownfield
+Legends	Brownfield
+Legends	Chocolate
+Legends	Cocoa
+Legends	Cranberry Grape
+LaJolla	Coastal Lights
+LaJolla	Beach View
+LaJolla	Golden Cottage
+LaJolla	Summer Glaze
+LaJolla	Washed Sand
+LaJolla	Crystal Champagne
+LaJolla	Cypress Inlet
+LaJolla	Garden Isle
+LaJolla	Pebble Mist
+LaJolla	Boardwalk Caf?
+LaJolla	Seaside Club
+LaJolla	Veranda
+LaJolla	Tranquility
+LaJolla	Morning Dew
+LaJolla	Vintage Lighthouse
+LaJolla	Vintage Lighthouse
+LaJolla	Evening Sea
+LaJolla	Evening Sea
+Laguna	Splashtone
+Laguna	Powered Sun
+Laguna	Powered Sun
+Laguna	Golden Reef
+Laguna	Golden Reef
+Laguna	Terrace Gate
+Laguna	Oceanscape
+Laguna	Kiwi Mist
+Laguna	Palm Leaf
+Laguna	Mangrove
+Laguna	Coastal Tide
+Laguna	 Shell Bisque
+Laguna	Sandcastle Dust
+Laguna	Pier Manor
+Laguna	Oyster Pearl
+Laguna	Cove Marina
+Laguna	Sea Cliffs
+Laguna	 Midnight Shadow
+Country Manor	Arlington
+Country Manor	Arlington
+Country Manor	Arlington
+Country Manor	Arlington
+Country Manor	Arlington
+Country Manor	Arlington
+Country Manor	Arlington
+Country Manor	Belcourt
+Country Manor	Belcourt
+Country Manor	Belcourt
+Country Manor	Belcourt
+Country Manor	Belcourt
+Country Manor	Belcourt
+Country Manor	Rose Hill
+Country Manor	Rose Hill
+Country Manor	Rose Hill
+Country Manor	Rose Hill
+Country Manor	Rose Hill
+Country Manor	Rose Hill
+Country Manor	Barrington
+Country Manor	Barrington
+Country Manor	Barrington
+Country Manor	Barrington
+Country Manor	Barrington
+Charade	Parchment
+Charade	Parchment
+Charade	Tussah
+Charade	Tussah
+Charade	Butternut
+Charade	Nutmeg
+Charade	Nutmeg
+Charade	Goldenrod
+Charade	Ivory
+Charade	Lichen
+Charade	Toffee
+Charade	Toffee
+Charade	Sienna
+Charade	Cordovan
+Baytowne	Montego
+Baytowne	Montego
+Baytowne	Saginaw
+Baytowne	Saginaw
+Baytowne	Rockland
+Baytowne	Potomac
+Baytowne	Green Bay
+Baytowne	Bristol
+Baytowne	Bristol
+Baytowne	Manilla
+Baytowne	Adriatic
+Baytowne	Panama
+Baytowne	Traverse
+Baytowne	Tasman
+Baytowne	Tasman
+Alfa	Linen
+Alfa	Beige
+Alfa	Beige
+Alfa	Dusk
+Alfa	Dusk
+Alfa	Brown
+Aberdeen	Linen
+Aberdeen	Oatmeal
+Aberdeen	Camel
+Aberdeen	Brown
+Windsor	Beige
+Windsor	Linen
+Windsor	Taupe
+Windsor	Camel
+San Marco	Murano Glass
+San Marco	Murano Glass
+San Marco	La CreMe
+San Marco	La CreMe
+San Marco	Terrace Sage
+San Marco	Terrace Sage
+San Marco	Cathedral Shadow
+San Marco	Cathedral Shadow
+San Marco	Golden Venetian
+San Marco	Golden Venetian
+San Marco	Piazza
+San Marco	Piazza
+San Marco	Cafe Florian
+San Marco	Cafe Florian
