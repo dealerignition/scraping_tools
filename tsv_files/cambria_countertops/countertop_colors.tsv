@@ -1,107 +1,178 @@
 manufacturers_id	color_name	color_category	color_image_url
-1	Brentwood	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_3011.jpg
-3	Buckingham	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1777.jpg
-4	Williston	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5110.jpg
-5	Bradshaw	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1715.jpg
-6	Aberdeen	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_7111.jpg
-7	Collybrooke	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2085.jpg
-8	Aragon	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_1730.jpg
-8	Aragon	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1730.jpg
-9	Laneshaw	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1250.jpg
-11	Dover	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_1130.jpg
-11	Dover	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1130.jpg
-12	Snowdon White	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0110.jpg
-12	Snowdon White	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0110.jpg
-13	Praa Sands	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0370.jpg
-14	Newport	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0124.jpg
-14	Newport	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0124.jpg
-15	Brecon Brown	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2090.jpg
-17	Edinburough	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5390.jpg
-18	Armitage	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5416.jpg
-19	Cambrian Gold	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_1510.jpg
-19	Cambrian Gold	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1510.jpg
-20	Windermere	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0351.jpg
-20	Windermere	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0351.jpg
-21	Torquay	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0122.jpg
-21	Torquay	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0122.jpg
-22	Kensington	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_6210.jpg
-23	Brownhill	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1720.jpg
-24	Carlisle Gray	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_2300.jpg
-24	Carlisle Gray	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2300.jpg
-25	Caerphilly Green	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_6130.jpg
-26	Whitney	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0115.jpg
-27	Southampton	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5420.jpg
-28	Lincolnshire	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2011.jpg
-29	Ferndale	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_6160.jpg
-29	Ferndale	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_6160.jpg
-30	Talbot Gray	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_2210.jpg
-31	Stafford Brown	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_1120.jpg
-31	Stafford Brown	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1120.jpg
-32	Shirebrook	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_1745.jpg
-32	Shirebrook	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1745.jpg
-33	Greystone	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2180.jpg
-34	Durham	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_2240.jpg
-37	Hazelford	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1230.jpg
-38	Newhaven	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2190.jpg
-39	Winchester	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1770.jpg
-41	Linwood	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2010.jpg
-42	Carmarthen Brown	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1210.jpg
-43	Oakhampton	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1240.jpg
-44	Ashford	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_7620.jpg
-46	Hamilton	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1650.jpg
-48	New Brighton	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1280.jpg
-50	Whitehall	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0120.jpg
-50	Whitehall	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0120.jpg
-51	Windsor	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1750.jpg
-53	Clyde	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_1140.jpg
-53	Clyde	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1140.jpg
-54	Fieldstone	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2160.jpg
-56	Nottingham	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_7120.jpg
-57	Bellingham	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0361.jpg
-58	Wilshire Red	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_4310.jpg
-59	Welshpool Black	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5210.jpg
-60	Sussex	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2095.jpg
-61	New Quay	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0360.jpg
-62	Canterbury	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1740.jpg
-63	Waterford	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_3250.jpg
-64	Sharpham	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5415.jpg
-64	Sharpham	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_5415.jpg
-65	Wellington	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1245.jpg
-65	Wellington	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1245.jpg
-66	Tenby Cream	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0510.jpg
-66	Tenby Cream	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0510.jpg
-67	Templeton	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0230.jpg
-69	Park Gate	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1610.jpg
-70	Cambrian Black	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5320.jpg
-71	Burnbury	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1350.jpg
-72	Cuddington	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0850.jpg
-72	Cuddington	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0850.jpg
-74	Flint Black	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5410.jpg
-77	Henley	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1910.jpg
-78	Victoria	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_1710.jpg
-80	Bala Blue	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_3110.jpg
-81	Blackwood	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5500.jpg
-82	Waverton	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0250.jpg
-82	Waverton	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0250.jpg
-83	Sutton	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_1760.jpg
-83	Sutton	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_1760.jpg
-84	Coswell Cream	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0810.jpg
-84	Coswell Cream	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0810.jpg
-85	Braemar	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0380.jpg
-85	Braemar	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_0380.jpg
-85	Braemar	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0380.jpg
-86	Dovedale	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0121.jpg
-86	Dovedale	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0121.jpg
-88	Reading	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_1470.jpg
-91	Westminster	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5220.jpg
-92	Sheffield	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_2230.jpg
-93	Charston	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5430.jpg
-95	Hyde Park	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_2150.jpg
-95	Hyde Park	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_2150.jpg
-97	White Cliff	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0125.jpg
-97	White Cliff	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0125.jpg
-98	Sanford	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0870.jpg
-98	Sanford	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0870.jpg
-99	Darlington	Light Colors	http://cambriausa.com/public/images/swatches/large/swatch_0350.jpg
-99	Darlington	Neutral Colors	http://cambriausa.com/public/images/swatches/large/swatch_0350.jpg
-100	Hollinsbrook	Dark Colors	http://cambriausa.com/public/images/swatches/large/swatch_5221.jpg
+1	Aberdeen	Dark Colors	http://cambriausa.com/PageFiles/14554/full_swatch_7111.jpg
+1	Aberdeen	Varied Color	http://cambriausa.com/PageFiles/14554/full_swatch_7111.jpg
+2	Aragon	Light Colors	http://cambriausa.com/PageFiles/14555/full_swatch_1730.jpg
+2	Aragon	Neutral Colors	http://cambriausa.com/PageFiles/14555/full_swatch_1730.jpg
+2	Aragon	Varied Color	http://cambriausa.com/PageFiles/14555/full_swatch_1730.jpg
+3	Armitage	Dark Colors	http://cambriausa.com/PageFiles/18204/full_swatch_5416.jpg
+3	Armitage	Varied Color	http://cambriausa.com/PageFiles/18204/full_swatch_5416.jpg
+4	Ashford	Neutral Colors	http://cambriausa.com/PageFiles/14557/full_swatch_7620.jpg
+4	Ashford	Varied Color	http://cambriausa.com/PageFiles/14557/full_swatch_7620.jpg
+5	Bala Blue	Dark Colors	http://cambriausa.com/PageFiles/14558/full_swatch_3110.jpg
+6	Bellingham	Neutral Colors	http://cambriausa.com/PageFiles/14559/full_swatch_0361.jpg
+6	Bellingham	Varied Color	http://cambriausa.com/PageFiles/14559/full_swatch_0361.jpg
+7	Berkeley	Light Colors	http://cambriausa.com/PageFiles/14560/full_swatch_1725.jpg
+7	Berkeley	Neutral Colors	http://cambriausa.com/PageFiles/14560/full_swatch_1725.jpg
+7	Berkeley	Varied Color	http://cambriausa.com/PageFiles/14560/full_swatch_1725.jpg
+8	Blackwood	Dark Colors	http://cambriausa.com/PageFiles/14561/full_swatch_5500.jpg
+8	Blackwood	Varied Color	http://cambriausa.com/PageFiles/14561/full_swatch_5500.jpg
+9	Bradford	Varied Color	http://cambriausa.com/PageFiles/14562/full_swatch_3120.jpg
+10	Bradshaw	Neutral Colors	http://cambriausa.com/PageFiles/18205/full_swatch_1715.jpg
+10	Bradshaw	Varied Color	http://cambriausa.com/PageFiles/18205/full_swatch_1715.jpg
+11	Braemar	Light Colors	http://cambriausa.com/PageFiles/14564/full_swatch_0380.jpg
+11	Braemar	Dark Colors	http://cambriausa.com/PageFiles/14564/full_swatch_0380.jpg
+11	Braemar	Neutral Colors	http://cambriausa.com/PageFiles/14564/full_swatch_0380.jpg
+11	Braemar	Varied Color	http://cambriausa.com/PageFiles/14564/full_swatch_0380.jpg
+12	Brecon Brown	Neutral Colors	http://cambriausa.com/PageFiles/14565/full_swatch_2090.jpg
+13	Brentwood	Dark Colors	http://cambriausa.com/PageFiles/14566/full_swatch_3011.jpg
+13	Brentwood	Varied Color	http://cambriausa.com/PageFiles/14566/full_swatch_3011.jpg
+15	Brownhill	Neutral Colors	http://cambriausa.com/PageFiles/14568/full_swatch_1720.jpg
+15	Brownhill	Varied Color	http://cambriausa.com/PageFiles/14568/full_swatch_1720.jpg
+16	Buckingham	Neutral Colors	http://cambriausa.com/PageFiles/14569/full_swatch_1777.jpg
+16	Buckingham	Varied Color	http://cambriausa.com/PageFiles/14569/full_swatch_1777.jpg
+17	Burnbury	Dark Colors	http://cambriausa.com/PageFiles/14570/full_swatch_1350.jpg
+17	Burnbury	Varied Color	http://cambriausa.com/PageFiles/14570/full_swatch_1350.jpg
+18	Burton Brown	Varied Color	http://cambriausa.com/PageFiles/14571/full_swatch_1410.jpg
+19	Caerphilly Green	Dark Colors	http://cambriausa.com/PageFiles/14572/full_swatch_6130.jpg
+19	Caerphilly Green	Varied Color	http://cambriausa.com/PageFiles/14572/full_swatch_6130.jpg
+20	Cambrian Black	Dark Colors	http://cambriausa.com/PageFiles/14573/full_swatch_5320.jpg
+21	Cambrian Gold	Light Colors	http://cambriausa.com/PageFiles/14574/full_swatch_1510.jpg
+21	Cambrian Gold	Neutral Colors	http://cambriausa.com/PageFiles/14574/full_swatch_1510.jpg
+22	Canterbury	Neutral Colors	http://cambriausa.com/PageFiles/14575/full_swatch_1740.jpg
+22	Canterbury	Varied Color	http://cambriausa.com/PageFiles/14575/full_swatch_1740.jpg
+25	Carlisle Gray	Light Colors	http://cambriausa.com/PageFiles/14578/full_swatch_2300.jpg
+25	Carlisle Gray	Neutral Colors	http://cambriausa.com/PageFiles/14578/full_swatch_2300.jpg
+25	Carlisle Gray	Varied Color	http://cambriausa.com/PageFiles/14578/full_swatch_2300.jpg
+26	Carmarthen Brown	Dark Colors	http://cambriausa.com/PageFiles/14579/full_swatch_1210.jpg
+27	Castell	Varied Color	http://cambriausa.com/PageFiles/14580/full_swatch_3010.jpg
+28	Charston	Dark Colors	http://cambriausa.com/PageFiles/14581/full_swatch_5430.jpg
+28	Charston	Varied Color	http://cambriausa.com/PageFiles/14581/full_swatch_5430.jpg
+29	Chatham	Varied Color	http://cambriausa.com/PageFiles/14582/full_swatch_7610.jpg
+30	Cherrybrook	Varied Color	http://cambriausa.com/PageFiles/14583/full_swatch_1220.jpg
+31	Clyde	Light Colors	http://cambriausa.com/PageFiles/14584/full_swatch_1140.jpg
+31	Clyde	Neutral Colors	http://cambriausa.com/PageFiles/14584/full_swatch_1140.jpg
+32	Collybrooke	Neutral Colors	http://cambriausa.com/PageFiles/14585/full_swatch_2085.jpg
+33	Coswell Cream	Light Colors	http://cambriausa.com/PageFiles/14586/full_swatch_0810.jpg
+33	Coswell Cream	Neutral Colors	http://cambriausa.com/PageFiles/14586/full_swatch_0810.jpg
+34	Cranbrook	Varied Color	http://cambriausa.com/PageFiles/14587/full_swatch_2310.jpg
+35	Cuddington	Light Colors	http://cambriausa.com/PageFiles/14588/full_swatch_0850.jpg
+35	Cuddington	Neutral Colors	http://cambriausa.com/PageFiles/14588/full_swatch_0850.jpg
+36	Darlington	Light Colors	http://cambriausa.com/PageFiles/14589/full_swatch_0350.jpg
+36	Darlington	Neutral Colors	http://cambriausa.com/PageFiles/14589/full_swatch_0350.jpg
+36	Darlington	Varied Color	http://cambriausa.com/PageFiles/14589/full_swatch_0350.jpg
+38	Dovedale	Light Colors	http://cambriausa.com/PageFiles/14591/full_swatch_0121.jpg
+38	Dovedale	Neutral Colors	http://cambriausa.com/PageFiles/14591/full_swatch_0121.jpg
+39	Dover	Light Colors	http://cambriausa.com/PageFiles/14592/full_swatch_1130.jpg
+39	Dover	Neutral Colors	http://cambriausa.com/PageFiles/14592/full_swatch_1130.jpg
+40	Durham	Dark Colors	http://cambriausa.com/PageFiles/14593/full_swatch_2240.jpg
+41	Edinburough	Dark Colors	http://cambriausa.com/PageFiles/14594/full_swatch_5390.jpg
+41	Edinburough	Varied Color	http://cambriausa.com/PageFiles/14594/full_swatch_5390.jpg
+42	Ferndale	Light Colors	http://cambriausa.com/PageFiles/14595/full_swatch_6160.jpg
+42	Ferndale	Neutral Colors	http://cambriausa.com/PageFiles/14595/full_swatch_6160.jpg
+42	Ferndale	Varied Color	http://cambriausa.com/PageFiles/14595/full_swatch_6160.jpg
+43	Fieldstone	Neutral Colors	http://cambriausa.com/PageFiles/14596/full_swatch_2160.jpg
+44	Flint Black	Dark Colors	http://cambriausa.com/PageFiles/14597/full_swatch_5410.jpg
+44	Flint Black	Varied Color	http://cambriausa.com/PageFiles/14597/full_swatch_5410.jpg
+45	Greystone	Neutral Colors	http://cambriausa.com/PageFiles/14598/full_swatch_2180.jpg
+46	Halstead	Varied Color	http://cambriausa.com/PageFiles/14599/full_swatch_1780.jpg
+47	Hamilton	Dark Colors	http://cambriausa.com/PageFiles/14600/full_swatch_1650.jpg
+47	Hamilton	Varied Color	http://cambriausa.com/PageFiles/14600/full_swatch_1650.jpg
+48	Hazelford	Dark Colors	http://cambriausa.com/PageFiles/14601/full_swatch_1230.jpg
+49	Henley	Dark Colors	http://cambriausa.com/PageFiles/14602/full_swatch_1910.jpg
+49	Henley	Varied Color	http://cambriausa.com/PageFiles/14602/full_swatch_1910.jpg
+50	Hollinsbrook	Dark Colors	http://cambriausa.com/PageFiles/18206/full_swatch_5221.jpg
+50	Hollinsbrook	Varied Color	http://cambriausa.com/PageFiles/18206/full_swatch_5221.jpg
+51	Hyde Park	Light Colors	http://cambriausa.com/PageFiles/14604/full_swatch_2150.jpg
+51	Hyde Park	Neutral Colors	http://cambriausa.com/PageFiles/14604/full_swatch_2150.jpg
+52	Kensington	Dark Colors	http://cambriausa.com/PageFiles/14605/full_swatch_6210.jpg
+52	Kensington	Varied Color	http://cambriausa.com/PageFiles/14605/full_swatch_6210.jpg
+53	Kingston	Varied Color	http://cambriausa.com/PageFiles/14606/full_swatch_2320.jpg
+54	Lancaster	Varied Color	http://cambriausa.com/PageFiles/14607/full_swatch_4620.jpg
+55	Laneshaw	Dark Colors	http://cambriausa.com/PageFiles/18207/full_swatch_1250.jpg
+55	Laneshaw	Varied Color	http://cambriausa.com/PageFiles/18207/full_swatch_1250.jpg
+56	Lincolnshire	Neutral Colors	http://cambriausa.com/PageFiles/14609/full_swatch_2011.jpg
+56	Lincolnshire	Varied Color	http://cambriausa.com/PageFiles/14609/full_swatch_2011.jpg
+57	Linwood	Neutral Colors	http://cambriausa.com/PageFiles/14610/full_swatch_2010.jpg
+57	Linwood	Varied Color	http://cambriausa.com/PageFiles/14610/full_swatch_2010.jpg
+59	New Brighton	Neutral Colors	http://cambriausa.com/PageFiles/14612/full_swatch_1280.jpg
+59	New Brighton	Varied Color	http://cambriausa.com/PageFiles/14612/full_swatch_1280.jpg
+61	New Quay	Neutral Colors	http://cambriausa.com/PageFiles/14614/full_swatch_0360.jpg
+61	New Quay	Varied Color	http://cambriausa.com/PageFiles/14614/full_swatch_0360.jpg
+62	Newhaven	Neutral Colors	http://cambriausa.com/PageFiles/14615/full_swatch_2190.jpg
+62	Newhaven	Varied Color	http://cambriausa.com/PageFiles/14615/full_swatch_2190.jpg
+63	Newport	Light Colors	http://cambriausa.com/PageFiles/14616/full_swatch_0124.jpg
+63	Newport	Neutral Colors	http://cambriausa.com/PageFiles/14616/full_swatch_0124.jpg
+64	Nottingham	Dark Colors	http://cambriausa.com/PageFiles/14617/full_swatch_7120.jpg
+64	Nottingham	Varied Color	http://cambriausa.com/PageFiles/14617/full_swatch_7120.jpg
+65	Oakhampton	Dark Colors	http://cambriausa.com/PageFiles/14618/full_swatch_1240.jpg
+66	Oxford	Varied Color	http://cambriausa.com/PageFiles/14619/full_swatch_7110.jpg
+67	Oxwich Green	Varied Color	http://cambriausa.com/PageFiles/14620/full_swatch_6200.jpg
+68	Park Gate	Dark Colors	http://cambriausa.com/PageFiles/14621/full_swatch_1610.jpg
+68	Park Gate	Varied Color	http://cambriausa.com/PageFiles/14621/full_swatch_1610.jpg
+70	Praa Sands	Neutral Colors	http://cambriausa.com/PageFiles/14623/full_swatch_0370.jpg
+70	Praa Sands	Varied Color	http://cambriausa.com/PageFiles/14623/full_swatch_0370.jpg
+71	Preston	Varied Color	http://cambriausa.com/PageFiles/14624/full_swatch_2220.jpg
+72	Reading	Dark Colors	http://cambriausa.com/PageFiles/14625/full_swatch_1470.jpg
+72	Reading	Varied Color	http://cambriausa.com/PageFiles/14625/full_swatch_1470.jpg
+74	Sanford	Light Colors	http://cambriausa.com/PageFiles/14627/full_swatch_0870.jpg
+74	Sanford	Neutral Colors	http://cambriausa.com/PageFiles/14627/full_swatch_0870.jpg
+75	Sharpham	Dark Colors	http://cambriausa.com/PageFiles/14628/full_swatch_5415.jpg
+75	Sharpham	Neutral Colors	http://cambriausa.com/PageFiles/14628/full_swatch_5415.jpg
+75	Sharpham	Varied Color	http://cambriausa.com/PageFiles/14628/full_swatch_5415.jpg
+76	Sheffield	Dark Colors	http://cambriausa.com/PageFiles/14629/full_swatch_2230.jpg
+76	Sheffield	Varied Color	http://cambriausa.com/PageFiles/14629/full_swatch_2230.jpg
+77	Shirebrook	Light Colors	http://cambriausa.com/PageFiles/14630/full_swatch_1745.jpg
+77	Shirebrook	Dark Colors	http://cambriausa.com/PageFiles/14630/full_swatch_1745.jpg
+77	Shirebrook	Varied Color	http://cambriausa.com/PageFiles/14630/full_swatch_1745.jpg
+78	Snowdon White	Light Colors	http://cambriausa.com/PageFiles/14631/full_swatch_0110.jpg
+78	Snowdon White	Neutral Colors	http://cambriausa.com/PageFiles/14631/full_swatch_0110.jpg
+79	Somerset	Varied Color	http://cambriausa.com/PageFiles/14632/full_swatch_1460.jpg
+80	Southampton	Dark Colors	http://cambriausa.com/PageFiles/14633/full_swatch_5420.jpg
+80	Southampton	Varied Color	http://cambriausa.com/PageFiles/14633/full_swatch_5420.jpg
+81	Stafford Brown	Light Colors	http://cambriausa.com/PageFiles/14634/full_swatch_1120.jpg
+81	Stafford Brown	Neutral Colors	http://cambriausa.com/PageFiles/14634/full_swatch_1120.jpg
+81	Stafford Brown	Varied Color	http://cambriausa.com/PageFiles/14634/full_swatch_1120.jpg
+82	Sussex	Neutral Colors	http://cambriausa.com/PageFiles/14635/full_swatch_2095.jpg
+83	Sutton	Light Colors	http://cambriausa.com/PageFiles/14636/full_swatch_1760.jpg
+83	Sutton	Neutral Colors	http://cambriausa.com/PageFiles/14636/full_swatch_1760.jpg
+83	Sutton	Varied Color	http://cambriausa.com/PageFiles/14636/full_swatch_1760.jpg
+84	Talbot Gray	Dark Colors	http://cambriausa.com/PageFiles/14637/full_swatch_2210.jpg
+84	Talbot Gray	Varied Color	http://cambriausa.com/PageFiles/14637/full_swatch_2210.jpg
+85	Templeton	Light Colors	http://cambriausa.com/PageFiles/14638/full_swatch_0230.jpg
+86	Tenby Cream	Light Colors	http://cambriausa.com/PageFiles/14639/full_swatch_0510.jpg
+86	Tenby Cream	Neutral Colors	http://cambriausa.com/PageFiles/14639/full_swatch_0510.jpg
+87	Torquay	Light Colors	http://cambriausa.com/PageFiles/14640/full_swatch_0122.jpg
+87	Torquay	Neutral Colors	http://cambriausa.com/PageFiles/14640/full_swatch_0122.jpg
+87	Torquay	Varied Color	http://cambriausa.com/PageFiles/14640/full_swatch_0122.jpg
+88	Victoria	Light Colors	http://cambriausa.com/PageFiles/14641/full_swatch_1710.jpg
+88	Victoria	Varied Color	http://cambriausa.com/PageFiles/14641/full_swatch_1710.jpg
+89	Waterford	Dark Colors	http://cambriausa.com/PageFiles/14642/full_swatch_3250.jpg
+89	Waterford	Varied Color	http://cambriausa.com/PageFiles/14642/full_swatch_3250.jpg
+90	Waverton	Light Colors	http://cambriausa.com/PageFiles/14643/full_swatch_0250.jpg
+90	Waverton	Neutral Colors	http://cambriausa.com/PageFiles/14643/full_swatch_0250.jpg
+90	Waverton	Varied Color	http://cambriausa.com/PageFiles/14643/full_swatch_0250.jpg
+91	Wellington	Dark Colors	http://cambriausa.com/PageFiles/14644/full_swatch_1245.jpg
+91	Wellington	Neutral Colors	http://cambriausa.com/PageFiles/14644/full_swatch_1245.jpg
+91	Wellington	Varied Color	http://cambriausa.com/PageFiles/14644/full_swatch_1245.jpg
+92	Welshpool Black	Dark Colors	http://cambriausa.com/PageFiles/14645/full_swatch_5210.jpg
+92	Welshpool Black	Varied Color	http://cambriausa.com/PageFiles/14645/full_swatch_5210.jpg
+93	Westminster	Dark Colors	http://cambriausa.com/PageFiles/14646/full_swatch_5220.jpg
+93	Westminster	Varied Color	http://cambriausa.com/PageFiles/14646/full_swatch_5220.jpg
+94	White Cliff	Light Colors	http://cambriausa.com/PageFiles/14647/full_swatch_0125.jpg
+94	White Cliff	Neutral Colors	http://cambriausa.com/PageFiles/14647/full_swatch_0125.jpg
+95	Whitehall	Light Colors	http://cambriausa.com/PageFiles/14648/full_swatch_0120.jpg
+95	Whitehall	Neutral Colors	http://cambriausa.com/PageFiles/14648/full_swatch_0120.jpg
+96	Whitney	Light Colors	http://cambriausa.com/PageFiles/14649/full_swatch_0115.jpg
+97	Williston	Dark Colors	http://cambriausa.com/PageFiles/14650/full_swatch_5110.jpg
+97	Williston	Varied Color	http://cambriausa.com/PageFiles/14650/full_swatch_5110.jpg
+98	Wilshire Red	Dark Colors	http://cambriausa.com/PageFiles/14651/full_swatch_4310.jpg
+98	Wilshire Red	Varied Color	http://cambriausa.com/PageFiles/14651/full_swatch_4310.jpg
+99	Winchester	Dark Colors	http://cambriausa.com/PageFiles/14652/full_swatch_1770.jpg
+99	Winchester	Varied Color	http://cambriausa.com/PageFiles/14652/full_swatch_1770.jpg
+100	Windermere	Light Colors	http://cambriausa.com/PageFiles/14653/full_swatch_0351.jpg
+100	Windermere	Neutral Colors	http://cambriausa.com/PageFiles/14653/full_swatch_0351.jpg
+100	Windermere	Varied Color	http://cambriausa.com/PageFiles/14653/full_swatch_0351.jpg
+101	Windsor	Dark Colors	http://cambriausa.com/PageFiles/14654/full_swatch_1750.jpg
+101	Windsor	Varied Color	http://cambriausa.com/PageFiles/14654/full_swatch_1750.jpg
+102	Yorkshire	Light Colors	http://cambriausa.com/PageFiles/14655/full_swatch_0820.jpg
+102	Yorkshire	Neutral Colors	http://cambriausa.com/PageFiles/14655/full_swatch_0820.jpg

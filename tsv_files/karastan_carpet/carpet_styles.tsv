@@ -24,8 +24,6 @@ manufacturers_id	style_name
 532	Casual
 12	Casual
 12	Check/Plaid/ Stripe
-14	Casual
-14	Check/Plaid/ Stripe
 17	Trellis/Floral
 509	Traditional/ Persian
 510	Traditional/ Persian
@@ -394,18 +392,12 @@ manufacturers_id	style_name
 755	Trellis/Floral
 36	Casual
 56	Animal Prints
-757	Casual
-758	Casual
-759	Casual
 765	Casual
 766	Casual
 767	Casual
 769	Casual
 770	Casual
 771	Casual
-773	Casual
-774	Casual
-775	Casual
 761	Casual
 762	Casual
 763	Casual
@@ -433,10 +425,35 @@ manufacturers_id	style_name
 794	Casual
 795	Contemporary
 795	Casual
-630	Contemporary
 797	Traditional/ Persian
 797	Casual
 798	Traditional/ Persian
 798	Casual
 799	Traditional/ Persian
 799	Casual
+345	Check/Plaid/ Stripe
+345	Trellis/Floral
+346	Check/Plaid/ Stripe
+346	Trellis/Floral
+347	Check/Plaid/ Stripe
+347	Trellis/Floral
+804	Contemporary
+803	Contemporary
+802	Contemporary
+801	Contemporary
+757	Casual
+758	Casual
+759	Casual
+807	Casual
+806	Casual
+805	Traditional/ Persian
+805	Casual
+808	Casual
+14	Casual
+14	Check/Plaid/ Stripe
+773	Casual
+774	Casual
+775	Casual
+630	Contemporary
+812	Casual
+813	Casual

@@ -220,7 +220,6 @@ manufacturers_id	style_name
 309	Traditional/ Persian
 81	Traditional/ Persian
 318	Contemporary
-86	Traditional/ Persian
 18	Traditional/ Persian
 20	Traditional/ Persian
 22	Traditional/ Persian
@@ -277,28 +276,7 @@ manufacturers_id	style_name
 339	Traditional/ Persian
 340	Traditional/ Persian
 95	Traditional/ Persian
-353	Casual
 354	Casual
-376	Traditional/ Persian
-377	Traditional/ Persian
-361	Casual
-363	Traditional/ Persian
-367	Traditional/ Persian
-366	Traditional/ Persian
-370	Traditional/ Persian
-368	Traditional/ Persian
-359	Casual
-373	Casual
-372	Casual
-371	Casual
-356	Traditional/ Persian
-355	Traditional/ Persian
-374	Casual
-362	Casual
-357	Casual
-358	Casual
-364	Casual
-365	Casual
 349	Contemporary
 349	Casual
 350	Contemporary
@@ -314,13 +292,35 @@ manufacturers_id	style_name
 345	Trellis/Floral
 351	Traditional/ Persian
 333	Contemporary
-360	Casual
-378	Casual
-379	Casual
+86	Traditional/ Persian
+361	Casual
+363	Traditional/ Persian
+368	Traditional/ Persian
+370	Traditional/ Persian
+376	Traditional/ Persian
+353	Casual
 375	Traditional/ Persian
-382	Casual
-382	Trellis/Floral
+377	Traditional/ Persian
+367	Traditional/ Persian
+360	Casual
+359	Casual
+373	Casual
+372	Casual
+356	Traditional/ Persian
+355	Traditional/ Persian
+374	Casual
+362	Casual
+357	Casual
+358	Casual
+364	Casual
+365	Casual
+366	Traditional/ Persian
+371	Casual
 380	Traditional/ Persian
 380	Casual
 383	Casual
+379	Casual
+382	Casual
+382	Trellis/Floral
 384	Traditional/ Persian
+378	Casual
