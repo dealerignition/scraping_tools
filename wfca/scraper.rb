@@ -64,7 +64,7 @@ print "Name\tContact\tMailing\tCity\tState\tPostal\tPhone\tFax\tWebsite\tCategor
       
       fax = dealer.xpath("//div[@class='searchTemplateRow4']")[i].inner_text
       fax.strip!
-      fax = phone.scan(/([0-9\-\(\)\s]+)/)[0][0]
+      fax = fax.scan(/([0-9\-\(\)\s]+)/)[0][0] if fax.scan(/([0-9\-\(\)\s]+)/) != []
       fax.strip!
       
       website = dealer.xpath("//div[@class='searchTemplateRow5']/a")[i].inner_text
