@@ -36,12 +36,12 @@ new_color = {:color_name => "", :color_category => "", :color_image_url => ""}
   if not cur_carpet[:colors].include?({
     :color_name => workbook.cell(line, 'G'),
     :color_category => "Fabrica Custom",
-    :color_image_url => workbook.cell(line, 'R')
+    :color_image_url => workbook.cell(line, 'P')
   })
     cur_carpet[:colors] << {
       :color_name => workbook.cell(line, 'G'),
       :color_category => "Fabrica Custom",
-      :color_image_url => workbook.cell(line, 'R')
+      :color_image_url => workbook.cell(line, 'P')
     }
   end
 
