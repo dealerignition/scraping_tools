@@ -1,0 +1,5 @@
+# Importing Karastan .bak file
+
+- Follow instructions outlined here: https://github.com/dealerignition/dealer_ignition/blob/master/doc/importing-karastan-sql-server-backup-file.markdown
+
+- The latest .BAK files can be found: http://s3.amazonaws.com/dealer_ignition/scraping_tools/karastan 

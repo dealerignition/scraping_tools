@@ -1,0 +1,16 @@
+# Importing Masland Data
+
+1. Parse .xls files and store on scraping_tools.
+	- May need to have Excel.app for the parser to run?
+	- Need to associate images correctly and host using paperclip.
+	- Images are stored on S3
+		- Broadloom: http://s3.amazonaws.com/dealer_ignition/scraping_tools/masland/broadloom
+		- Rug: http://s3.amazonaws.com/dealer_ignition/scraping_tools/masland/rugs
+
+2. Generate .tsv files.
+
+3. Load .tsv files into Catalog app (using the interface).
+
+4. Run `rake jobs:work` on Catalog app.
+
+5. Reindex solr: `rake sunspot:reindex`.
