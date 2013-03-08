@@ -131,6 +131,7 @@ manufacturers_id	shape_image_url	height	width	shape_name
 49	http://s7d5.scene7.com/is/image/Karastan/700_724	69.0	108.0	Rectangle
 49	http://s7d5.scene7.com/is/image/Karastan/700_724	104.0	126.0	Rectangle
 49	http://s7d5.scene7.com/is/image/Karastan/700_724	104.0	144.0	Rectangle
+49	http://s7d5.scene7.com/is/image/Karastan/700_724	120.0	168.0	Rectangle
 49	http://s7d5.scene7.com/is/image/Karastan/B724R	30.0	0.0	Continuous Runner
 51	http://s7d5.scene7.com/is/image/Karastan/385_29916	42.0	66.0	Rectangle
 51	http://s7d5.scene7.com/is/image/Karastan/385_29916	66.0	102.0	Rectangle
@@ -267,13 +268,6 @@ manufacturers_id	shape_image_url	height	width	shape_name
 100	http://s7d5.scene7.com/is/image/Karastan/35505_33004	114.0	158.0	Rectangle
 100	http://s7d5.scene7.com/is/image/Karastan/35505R_33004	29.0	96.0	Runner
 100	http://s7d5.scene7.com/is/image/Karastan/35505R_33004	29.0	144.0	Runner
-101	http://s7d5.scene7.com/is/image/Karastan/35505_33009	29.0	48.0	Rectangle
-101	http://s7d5.scene7.com/is/image/Karastan/35505_33009	39.0	66.0	Rectangle
-101	http://s7d5.scene7.com/is/image/Karastan/35505_33009	66.0	99.0	Rectangle
-101	http://s7d5.scene7.com/is/image/Karastan/35505_33009	96.0	129.0	Rectangle
-101	http://s7d5.scene7.com/is/image/Karastan/35505_33009	114.0	158.0	Rectangle
-101	http://s7d5.scene7.com/is/image/Karastan/35505R_33009	29.0	96.0	Runner
-101	http://s7d5.scene7.com/is/image/Karastan/35505R_33009	29.0	144.0	Runner
 102	http://s7d5.scene7.com/is/image/Karastan/35505_33003	29.0	48.0	Rectangle
 102	http://s7d5.scene7.com/is/image/Karastan/35505_33003	39.0	66.0	Rectangle
 102	http://s7d5.scene7.com/is/image/Karastan/35505_33003	66.0	99.0	Rectangle
@@ -308,7 +302,6 @@ manufacturers_id	shape_image_url	height	width	shape_name
 107	http://s7d5.scene7.com/is/image/Karastan/2120_539	102.0	138.0	Rectangle
 107	http://s7d5.scene7.com/is/image/Karastan/2120_539R	30.0	96.0	Runner
 107	http://s7d5.scene7.com/is/image/Karastan/2120_539R	30.0	144.0	Runner
-108	http://s7d5.scene7.com/is/image/Karastan/2120_00505R	26.0	48.0	Runner
 108	http://s7d5.scene7.com/is/image/Karastan/2120_00505R	30.0	96.0	Runner
 108	http://s7d5.scene7.com/is/image/Karastan/2120_00505R	30.0	144.0	Runner
 108	http://s7d5.scene7.com/is/image/Karastan/2120_505	30.0	48.0	Rectangle
@@ -527,74 +520,10 @@ manufacturers_id	shape_image_url	height	width	shape_name
 186	http://s7d5.scene7.com/is/image/Karastan/535_16007	104.0	120.0	Rectangle
 186	http://s7d5.scene7.com/is/image/Karastan/535_16007	104.0	144.0	Rectangle
 191	http://s7d5.scene7.com/is/image/Karastan/4538R_Capsilon_runner	29.0	0.0	Continuous Runner
-195	http://s7d5.scene7.com/is/image/Karastan/4524R_00003	26.0	0.0	Continuous Runner
-195	http://s7d5.scene7.com/is/image/Karastan/4524R_00003	31.0	0.0	Continuous Runner
-196	http://s7d5.scene7.com/is/image/Karastan/4524R_00004	26.0	0.0	Continuous Runner
-196	http://s7d5.scene7.com/is/image/Karastan/4524R_00004	31.0	0.0	Continuous Runner
-197	http://s7d5.scene7.com/is/image/Karastan/4524R-00001	26.0	0.0	Continuous Runner
-197	http://s7d5.scene7.com/is/image/Karastan/4524R-00001	31.0	0.0	Continuous Runner
-198	http://s7d5.scene7.com/is/image/Karastan/4524R_00005	26.0	0.0	Continuous Runner
-198	http://s7d5.scene7.com/is/image/Karastan/4524R_00005	31.0	0.0	Continuous Runner
-199	http://s7d5.scene7.com/is/image/Karastan/4524R_00006	26.0	0.0	Continuous Runner
-199	http://s7d5.scene7.com/is/image/Karastan/4524R_00006	31.0	0.0	Continuous Runner
-200	http://s7d5.scene7.com/is/image/Karastan/4524R_00002	26.0	0.0	Continuous Runner
-200	http://s7d5.scene7.com/is/image/Karastan/4524R_00002	31.0	0.0	Continuous Runner
-201	http://s7d5.scene7.com/is/image/Karastan/4589R_40001	31.0	0.0	Continuous Runner
-203	http://s7d5.scene7.com/is/image/Karastan/4589R_50001	31.0	0.0	Continuous Runner
-204	http://s7d5.scene7.com/is/image/Karastan/4589R_90001	31.0	0.0	Continuous Runner
-205	http://s7d5.scene7.com/is/image/Karastan/4589R_80001	31.0	0.0	Continuous Runner
-206	http://s7d5.scene7.com/is/image/Karastan/ImageNotAvailable	31.0	0.0	Continuous Runner
-207	http://s7d5.scene7.com/is/image/Karastan/4531R_55001	31.0	0.0	Continuous Runner
-208	http://s7d5.scene7.com/is/image/Karastan/4531R_22001	31.0	0.0	Continuous Runner
-209	http://s7d5.scene7.com/is/image/Karastan/4539R_08909	29.0	0.0	Continuous Runner
-210	http://s7d5.scene7.com/is/image/Karastan/4539R_08906	29.0	0.0	Continuous Runner
-211	http://s7d5.scene7.com/is/image/Karastan/4539R_08863	29.0	0.0	Continuous Runner
-212	http://s7d5.scene7.com/is/image/Karastan/4539R_08910	29.0	0.0	Continuous Runner
-213	http://s7d5.scene7.com/is/image/Karastan/4532R_88002	31.0	0.0	Continuous Runner
-215	http://s7d5.scene7.com/is/image/Karastan/4532R_55002	31.0	0.0	Continuous Runner
-216	http://s7d5.scene7.com/is/image/Karastan/ImageNotAvailable	31.0	0.0	Continuous Runner
-217	http://s7d5.scene7.com/is/image/Karastan/4575R_00001	26.0	0.0	Continuous Runner
-217	http://s7d5.scene7.com/is/image/Karastan/4575R_00001	31.0	0.0	Continuous Runner
-218	http://s7d5.scene7.com/is/image/Karastan/4533R_22003	31.0	0.0	Continuous Runner
-219	http://s7d5.scene7.com/is/image/Karastan/4533R_88003	31.0	0.0	Continuous Runner
-220	http://s7d5.scene7.com/is/image/Karastan/4537R_08909	29.0	0.0	Continuous Runner
-221	http://s7d5.scene7.com/is/image/Karastan/4537R_08864	29.0	0.0	Continuous Runner
-222	http://s7d5.scene7.com/is/image/Karastan/4537R_08906	29.0	0.0	Continuous Runner
-223	http://s7d5.scene7.com/is/image/Karastan/ImageNotAvailable	29.0	0.0	Continuous Runner
-224	http://s7d5.scene7.com/is/image/Karastan/4537R_08907	29.0	0.0	Continuous Runner
-225	http://s7d5.scene7.com/is/image/Karastan/4537R_08910	29.0	0.0	Continuous Runner
-226	http://s7d5.scene7.com/is/image/Karastan/4587R_90001	31.0	0.0	Continuous Runner
-227	http://s7d5.scene7.com/is/image/Karastan/4587R_00001	31.0	0.0	Continuous Runner
-228	http://s7d5.scene7.com/is/image/Karastan/4587R_50001	31.0	0.0	Continuous Runner
-229	http://s7d5.scene7.com/is/image/Karastan/4587R_40001	31.0	0.0	Continuous Runner
-230	http://s7d5.scene7.com/is/image/Karastan/4587R_80001	31.0	0.0	Continuous Runner
 231	http://s7d5.scene7.com/is/image/Karastan/ImageNotAvailable	29.0	0.0	Continuous Runner
 232	http://s7d5.scene7.com/is/image/Karastan/4541R_08864	29.0	0.0	Continuous Runner
 233	http://s7d5.scene7.com/is/image/Karastan/4541R_08906	29.0	0.0	Continuous Runner
-234	http://s7d5.scene7.com/is/image/Karastan/4541R_08863	29.0	0.0	Continuous Runner
-235	http://s7d5.scene7.com/is/image/Karastan/4585R_80001	31.0	0.0	Continuous Runner
-236	http://s7d5.scene7.com/is/image/Karastan/4585R_40001	31.0	0.0	Continuous Runner
-237	http://s7d5.scene7.com/is/image/Karastan/4586R_40001	31.0	0.0	Continuous Runner
-238	http://s7d5.scene7.com/is/image/Karastan/4586R_80001	31.0	0.0	Continuous Runner
-239	http://s7d5.scene7.com/is/image/Karastan/4586R_90001	31.0	0.0	Continuous Runner
-240	http://s7d5.scene7.com/is/image/Karastan/4584R_00001	31.0	0.0	Continuous Runner
-241	http://s7d5.scene7.com/is/image/Karastan/4584R_50001	31.0	0.0	Continuous Runner
-242	http://s7d5.scene7.com/is/image/Karastan/4584R_80001	31.0	0.0	Continuous Runner
-243	http://s7d5.scene7.com/is/image/Karastan/4584R_90001	31.0	0.0	Continuous Runner
-244	http://s7d5.scene7.com/is/image/Karastan/ImageNotAvailable	29.0	0.0	Continuous Runner
 245	http://s7d5.scene7.com/is/image/Karastan/4540R_08907	29.0	0.0	Continuous Runner
-246	http://s7d5.scene7.com/is/image/Karastan/4525R_00003	26.0	0.0	Continuous Runner
-246	http://s7d5.scene7.com/is/image/Karastan/4525R_00003	31.0	0.0	Continuous Runner
-247	http://s7d5.scene7.com/is/image/Karastan/4525R_00004	26.0	0.0	Continuous Runner
-247	http://s7d5.scene7.com/is/image/Karastan/4525R_00004	31.0	0.0	Continuous Runner
-248	http://s7d5.scene7.com/is/image/Karastan/4525R_00001	26.0	0.0	Continuous Runner
-248	http://s7d5.scene7.com/is/image/Karastan/4525R_00001	31.0	0.0	Continuous Runner
-249	http://s7d5.scene7.com/is/image/Karastan/4525R_00005	26.0	0.0	Continuous Runner
-249	http://s7d5.scene7.com/is/image/Karastan/4525R_00005	31.0	0.0	Continuous Runner
-251	http://s7d5.scene7.com/is/image/Karastan/4525R_00002	26.0	0.0	Continuous Runner
-251	http://s7d5.scene7.com/is/image/Karastan/4525R_00002	31.0	0.0	Continuous Runner
-252	http://s7d5.scene7.com/is/image/Karastan/4588R_50001	31.0	0.0	Continuous Runner
-253	http://s7d5.scene7.com/is/image/Karastan/4588R_80001	31.0	0.0	Continuous Runner
 254	http://s7d5.scene7.com/is/image/Karastan/74600_12100	35.0	56.0	Rectangle
 254	http://s7d5.scene7.com/is/image/Karastan/74600_12100	66.0	99.0	Rectangle
 254	http://s7d5.scene7.com/is/image/Karastan/74600_12100	96.0	120.0	Rectangle
@@ -989,7 +918,6 @@ manufacturers_id	shape_image_url	height	width	shape_name
 340	http://s7d5.scene7.com/is/image/Karastan/2120-555	102.0	138.0	Rectangle
 340	http://s7d5.scene7.com/is/image/Karastan/ImageNotAvailable	30.0	96.0	Runner
 340	http://s7d5.scene7.com/is/image/Karastan/ImageNotAvailable	30.0	144.0	Runner
-341				
 342	http://s7d5.scene7.com/is/image/Karastan/35520-16100	29.0	48.0	Rectangle
 342	http://s7d5.scene7.com/is/image/Karastan/35520-16100	39.0	66.0	Rectangle
 342	http://s7d5.scene7.com/is/image/Karastan/35520-16100	63.0	99.0	Rectangle

@@ -55,8 +55,6 @@ manufacturers_id	color_category
 95	Red/Rust
 99	Green
 100	Red/Rust
-101	Green
-101	White/Ivory
 102	Red/Rust
 102	White/Ivory
 103	Green
@@ -122,65 +120,10 @@ manufacturers_id	color_category
 184	Red/Rust
 186	Beige/Brown
 191	Green
-195	Yellow/Gold
-196	White/Ivory
-197	Grey/Black
-198	Beige/Brown
-199	Red/Rust
-200	Yellow/Gold
-201	Yellow/Gold
-203	Beige/Brown
-204	Blue
-205	White/Ivory
-206	
-207	Beige/Brown
-208	Grey/Black
-209	Red/Rust
-210	Green
-211	Green
-212	Beige/Brown
-213	Beige/Brown
-215	Beige/Brown
-216	
-217	Beige/Brown
-218	Yellow/Gold
-219	White/Ivory
-220	Red/Rust
-221	Beige/Brown
-222	Green
-223	
-224	Yellow/Gold
-225	Yellow/Gold
-226	Blue
-227	Red/Rust
-228	Beige/Brown
-229	Yellow/Gold
-230	White/Ivory
 231	
 232	Beige/Brown
 233	Green
-234	Green
-235	White/Ivory
-236	Yellow/Gold
-237	Blue
-237	Yellow/Gold
-238	White/Ivory
-239	Blue
-240	Red/Rust
-241	Yellow/Gold
-242	Beige/Brown
-242	White/Ivory
-243	Blue
-244	Green
-244	Yellow/Gold
 245	Beige/Brown
-246	Yellow/Gold
-247	White/Ivory
-248	Grey/Black
-249	Yellow/Gold
-251	Beige/Brown
-252	Beige/Brown
-253	White/Ivory
 254	Beige/Brown
 255	Beige/Brown
 256	Beige/Brown
@@ -306,7 +249,6 @@ manufacturers_id	color_category
 338	Beige/Brown
 339	Red/Rust
 340	Beige/Brown
-341	
 342	White/Ivory
 344	Red/Rust
 345	Blue

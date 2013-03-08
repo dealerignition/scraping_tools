@@ -395,10 +395,15 @@ manufacturers_id	color_name	color_image_url	color_category
 62	Wild Oats	http://s7d5.scene7.com/is/image/Karastan/43386_9748	Beige/Brown
 62	Willow	http://s7d5.scene7.com/is/image/Karastan/43386_9712	Beige/Brown
 63	18 Karat	http://s7d5.scene7.com/is/image/Karastan/41233_18402	Beige/Brown
+63	18 Karat	http://s7d5.scene7.com/is/image/Karastan/41233_18402	Yellow/Gold
+63	Accent On Khaki	http://s7d5.scene7.com/is/image/Karastan/41233_18532	Beige/Brown
 63	Accent On Khaki	http://s7d5.scene7.com/is/image/Karastan/41233_18532	Grey/Black
+63	Ataliere Bisque	http://s7d5.scene7.com/is/image/Karastan/41233_18145	Beige/Brown
 63	Ataliere Bisque	http://s7d5.scene7.com/is/image/Karastan/41233_18145	Grey/Black
 63	Best Dressed Neutral	http://s7d5.scene7.com/is/image/Karastan/41233_18401	Beige/Brown
 63	Boticelli Glow	http://s7d5.scene7.com/is/image/Karastan/41233_18428	Beige/Brown
+63	Boticelli Glow	http://s7d5.scene7.com/is/image/Karastan/41233_18428	Yellow/Gold
+63	Chase Bronze	http://s7d5.scene7.com/is/image/Karastan/41233_18524	Beige/Brown
 63	Chase Bronze	http://s7d5.scene7.com/is/image/Karastan/41233_18524	Green
 63	Clarion Claret	http://s7d5.scene7.com/is/image/Karastan/41233_18036	Red/Rust
 63	Empire Sapphire	http://s7d5.scene7.com/is/image/Karastan/41233_18924	Blue
@@ -406,9 +411,11 @@ manufacturers_id	color_name	color_image_url	color_category
 63	International Peach	http://s7d5.scene7.com/is/image/Karastan/41233_18356	Red/Rust
 63	Latte	http://s7d5.scene7.com/is/image/Karastan/41233_18422	Beige/Brown
 63	Luggage	http://s7d5.scene7.com/is/image/Karastan/41233_18539	Beige/Brown
+63	Off White Chic	http://s7d5.scene7.com/is/image/Karastan/41233_18825	Beige/Brown
 63	Off White Chic	http://s7d5.scene7.com/is/image/Karastan/41233_18825	Grey/Black
 63	Off White Chic	http://s7d5.scene7.com/is/image/Karastan/41233_18825	White/Ivory
 63	Patrician White	http://s7d5.scene7.com/is/image/Karastan/41233_18827	Beige/Brown
+63	Patrician White	http://s7d5.scene7.com/is/image/Karastan/41233_18827	White/Ivory
 63	Plaza Ivory	http://s7d5.scene7.com/is/image/Karastan/41233_18810	White/Ivory
 63	Sumptuous Suede	http://s7d5.scene7.com/is/image/Karastan/41233_18455	Red/Rust
 63	To Dye For Spice	http://s7d5.scene7.com/is/image/Karastan/41233_18544	Red/Rust
@@ -464,6 +471,7 @@ manufacturers_id	color_name	color_image_url	color_category
 72	Tomato Soup	http://s7d5.scene7.com/is/image/Karastan/41212_29024	Red/Rust
 73	Maze Ebony	http://s7d5.scene7.com/is/image/Karastan/41533_22003	Grey/Black
 73	Maze Ebony	http://s7d5.scene7.com/is/image/Karastan/41533_22003	Yellow/Gold
+73	Maze Ivory	http://s7d5.scene7.com/is/image/Karastan/41533_88003	Beige/Brown
 73	Maze Ivory	http://s7d5.scene7.com/is/image/Karastan/41533_88003	White/Ivory
 74	Amber Glass	http://s7d5.scene7.com/is/image/Karastan/43392_9862	Beige/Brown
 74	Angora	http://s7d5.scene7.com/is/image/Karastan/43392_9728	Grey/Black
@@ -4139,137 +4147,242 @@ manufacturers_id	color_name	color_image_url	color_category
 457	Thatched Roof	http://s7d5.scene7.com/is/image/Karastan/43423_9878	Beige/Brown
 457	Winter Bark	http://s7d5.scene7.com/is/image/Karastan/43423_9856	Beige/Brown
 457	Woodcarving	http://s7d5.scene7.com/is/image/Karastan/43423_9858	Beige/Brown
+458	Aged Stucco	http://s7d5.scene7.com/is/image/Karastan/43442-9107	Beige/Brown
 458	Aged Stucco	http://s7d5.scene7.com/is/image/Karastan/43442-9107	White/Ivory
 458	Ancient Villa	http://s7d5.scene7.com/is/image/Karastan/43442-9102	Beige/Brown
+458	Ancient Villa	http://s7d5.scene7.com/is/image/Karastan/43442-9102	White/Ivory
+458	Artifact	http://s7d5.scene7.com/is/image/Karastan/43442-9119	Beige/Brown
 458	Artifact	http://s7d5.scene7.com/is/image/Karastan/43442-9119	Grey/Black
 458	Artistic Style	http://s7d5.scene7.com/is/image/Karastan/43442-9131	Beige/Brown
 458	Beach Resort	http://s7d5.scene7.com/is/image/Karastan/43442-9130	Beige/Brown
+458	Beach Resort	http://s7d5.scene7.com/is/image/Karastan/43442-9130	Green
 458	Castello	http://s7d5.scene7.com/is/image/Karastan/43442-9103	Beige/Brown
 458	Coastal Sands	http://s7d5.scene7.com/is/image/Karastan/43442-9118	Beige/Brown
+458	Coastal Sands	http://s7d5.scene7.com/is/image/Karastan/43442-9118	Red/Rust
 458	Cobblestone	http://s7d5.scene7.com/is/image/Karastan/43442-9140	Beige/Brown
+458	Contessa	http://s7d5.scene7.com/is/image/Karastan/43442-9106	Red/Rust
 458	Contessa	http://s7d5.scene7.com/is/image/Karastan/43442-9106	White/Ivory
 458	Cultural Centre	http://s7d5.scene7.com/is/image/Karastan/43442-9123	Beige/Brown
+458	Cultural Centre	http://s7d5.scene7.com/is/image/Karastan/43442-9123	Green
 458	Dynasty	http://s7d5.scene7.com/is/image/Karastan/43442-9126	Beige/Brown
+458	Dynasty	http://s7d5.scene7.com/is/image/Karastan/43442-9126	Blue
+458	Early Ray	http://s7d5.scene7.com/is/image/Karastan/43442-9105	Red/Rust
 458	Early Ray	http://s7d5.scene7.com/is/image/Karastan/43442-9105	White/Ivory
 458	Empire Red	http://s7d5.scene7.com/is/image/Karastan/43442-9133	Red/Rust
 458	Fortezza	http://s7d5.scene7.com/is/image/Karastan/43442-9101	Beige/Brown
+458	Fortezza	http://s7d5.scene7.com/is/image/Karastan/43442-9101	White/Ivory
+458	Frescoes	http://s7d5.scene7.com/is/image/Karastan/43442-9139	Purple
 458	Frescoes	http://s7d5.scene7.com/is/image/Karastan/43442-9139	White/Ivory
 458	Gondola	http://s7d5.scene7.com/is/image/Karastan/43442-9112	Beige/Brown
+458	Gondola	http://s7d5.scene7.com/is/image/Karastan/43442-9112	White/Ivory
+458	Grand Canal	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Beige/Brown
 458	Grand Canal	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Green
 458	Heirloom	http://s7d5.scene7.com/is/image/Karastan/43442-9138	Beige/Brown
 458	High Society	http://s7d5.scene7.com/is/image/Karastan/43442-9104	Beige/Brown
+458	High Society	http://s7d5.scene7.com/is/image/Karastan/43442-9104	Yellow/Gold
 458	Lavender	http://s7d5.scene7.com/is/image/Karastan/43442-9120	Purple
+458	Legacy	http://s7d5.scene7.com/is/image/Karastan/43442-9117	Red/Rust
 458	Legacy	http://s7d5.scene7.com/is/image/Karastan/43442-9117	White/Ivory
+458	Lemon Tree	http://s7d5.scene7.com/is/image/Karastan/43442-9128	Blue
 458	Lemon Tree	http://s7d5.scene7.com/is/image/Karastan/43442-9128	Yellow/Gold
 458	Lost Lagoon	http://s7d5.scene7.com/is/image/Karastan/43442-9110	Blue
+458	Lost Lagoon	http://s7d5.scene7.com/is/image/Karastan/43442-9110	Grey/Black
+458	Lush Gardens	http://s7d5.scene7.com/is/image/Karastan/43442-9144	Beige/Brown
 458	Lush Gardens	http://s7d5.scene7.com/is/image/Karastan/43442-9144	Green
 458	Mediterranean	http://s7d5.scene7.com/is/image/Karastan/43442-9111	Blue
+458	Mediterranean	http://s7d5.scene7.com/is/image/Karastan/43442-9111	Grey/Black
 458	Mezzaluna	http://s7d5.scene7.com/is/image/Karastan/43442-9127	Beige/Brown
+458	Mezzaluna	http://s7d5.scene7.com/is/image/Karastan/43442-9127	Purple
 458	Mineral Water	http://s7d5.scene7.com/is/image/Karastan/43442-9129	Beige/Brown
+458	Mineral Water	http://s7d5.scene7.com/is/image/Karastan/43442-9129	White/Ivory
+458	Monument	http://s7d5.scene7.com/is/image/Karastan/43442-9108	Beige/Brown
 458	Monument	http://s7d5.scene7.com/is/image/Karastan/43442-9108	Grey/Black
 458	Nobility	http://s7d5.scene7.com/is/image/Karastan/43442-9124	Beige/Brown
+458	Nobility	http://s7d5.scene7.com/is/image/Karastan/43442-9124	Green
+458	Olive Grove	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Beige/Brown
 458	Olive Grove	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Green
 458	Ornate Facade	http://s7d5.scene7.com/is/image/Karastan/43442-9114	Beige/Brown
+458	Ornate Facade	http://s7d5.scene7.com/is/image/Karastan/43442-9114	White/Ivory
 458	Peninsula	http://s7d5.scene7.com/is/image/Karastan/43442-9137	Beige/Brown
+458	Peninsula	http://s7d5.scene7.com/is/image/Karastan/43442-9137	Green
 458	Piazza	http://s7d5.scene7.com/is/image/Karastan/43442-9136	Beige/Brown
 458	Port City	http://s7d5.scene7.com/is/image/Karastan/43442-9109	Blue
+458	Port City	http://s7d5.scene7.com/is/image/Karastan/43442-9109	Grey/Black
 458	Province	http://s7d5.scene7.com/is/image/Karastan/43442-9115	Beige/Brown
+458	Province	http://s7d5.scene7.com/is/image/Karastan/43442-9115	White/Ivory
 458	Relic	http://s7d5.scene7.com/is/image/Karastan/43442-9125	Beige/Brown
+458	Relic	http://s7d5.scene7.com/is/image/Karastan/43442-9125	Blue
+458	Rolling Hills	http://s7d5.scene7.com/is/image/Karastan/43442-9143	Beige/Brown
 458	Rolling Hills	http://s7d5.scene7.com/is/image/Karastan/43442-9143	Green
 458	Rustic Charm	http://s7d5.scene7.com/is/image/Karastan/43442-9134	Beige/Brown
+458	Rustic Charm	http://s7d5.scene7.com/is/image/Karastan/43442-9134	Blue
 458	Shoreline	http://s7d5.scene7.com/is/image/Karastan/43442-9116	Beige/Brown
+458	Shoreline	http://s7d5.scene7.com/is/image/Karastan/43442-9116	Yellow/Gold
 458	Under The Sun	http://s7d5.scene7.com/is/image/Karastan/43442-9132	Beige/Brown
 458	Veranda	http://s7d5.scene7.com/is/image/Karastan/43442-9135	Beige/Brown
 458	Villaggio	http://s7d5.scene7.com/is/image/Karastan/43442-9113	Beige/Brown
+458	Villaggio	http://s7d5.scene7.com/is/image/Karastan/43442-9113	White/Ivory
 458	Vineyard	http://s7d5.scene7.com/is/image/Karastan/43442-9121	Beige/Brown
+458	Vineyard	http://s7d5.scene7.com/is/image/Karastan/43442-9121	Grey/Black
+458	Winery	http://s7d5.scene7.com/is/image/Karastan/43442-9122	Grey/Black
 458	Winery	http://s7d5.scene7.com/is/image/Karastan/43442-9122	Red/Rust
+459	Aged Stucco	http://s7d5.scene7.com/is/image/Karastan/43442-9107	Beige/Brown
 459	Aged Stucco	http://s7d5.scene7.com/is/image/Karastan/43442-9107	White/Ivory
 459	Ancient Villa	http://s7d5.scene7.com/is/image/Karastan/43442-9102	Beige/Brown
+459	Ancient Villa	http://s7d5.scene7.com/is/image/Karastan/43442-9102	White/Ivory
+459	Artifact	http://s7d5.scene7.com/is/image/Karastan/43442-9119	Beige/Brown
 459	Artifact	http://s7d5.scene7.com/is/image/Karastan/43442-9119	Grey/Black
 459	Artistic Style	http://s7d5.scene7.com/is/image/Karastan/43442-9131	Beige/Brown
 459	Beach Resort	http://s7d5.scene7.com/is/image/Karastan/43442-9130	Beige/Brown
+459	Beach Resort	http://s7d5.scene7.com/is/image/Karastan/43442-9130	Green
 459	Castello	http://s7d5.scene7.com/is/image/Karastan/43442-9103	Beige/Brown
 459	Coastal Sands	http://s7d5.scene7.com/is/image/Karastan/43442-9118	Beige/Brown
+459	Coastal Sands	http://s7d5.scene7.com/is/image/Karastan/43442-9118	Red/Rust
 459	Cobblestone	http://s7d5.scene7.com/is/image/Karastan/43442-9140	Beige/Brown
+459	Contessa	http://s7d5.scene7.com/is/image/Karastan/43442-9106	Red/Rust
 459	Contessa	http://s7d5.scene7.com/is/image/Karastan/43442-9106	White/Ivory
 459	Cultural Centre	http://s7d5.scene7.com/is/image/Karastan/43442-9123	Beige/Brown
+459	Cultural Centre	http://s7d5.scene7.com/is/image/Karastan/43442-9123	Green
 459	Dynasty	http://s7d5.scene7.com/is/image/Karastan/43442-9126	Beige/Brown
+459	Dynasty	http://s7d5.scene7.com/is/image/Karastan/43442-9126	Blue
+459	Early Ray	http://s7d5.scene7.com/is/image/Karastan/43442-9105	Red/Rust
 459	Early Ray	http://s7d5.scene7.com/is/image/Karastan/43442-9105	White/Ivory
 459	Empire Red	http://s7d5.scene7.com/is/image/Karastan/43442-9133	Red/Rust
 459	Fortezza	http://s7d5.scene7.com/is/image/Karastan/43442-9101	Beige/Brown
+459	Fortezza	http://s7d5.scene7.com/is/image/Karastan/43442-9101	White/Ivory
+459	Frescoes	http://s7d5.scene7.com/is/image/Karastan/43442-9139	Purple
 459	Frescoes	http://s7d5.scene7.com/is/image/Karastan/43442-9139	White/Ivory
 459	Gondola	http://s7d5.scene7.com/is/image/Karastan/43442-9112	Beige/Brown
+459	Gondola	http://s7d5.scene7.com/is/image/Karastan/43442-9112	White/Ivory
+459	Grand Canal	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Beige/Brown
 459	Grand Canal	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Green
 459	Heirloom	http://s7d5.scene7.com/is/image/Karastan/43442-9138	Beige/Brown
 459	High Society	http://s7d5.scene7.com/is/image/Karastan/43442-9104	Beige/Brown
+459	High Society	http://s7d5.scene7.com/is/image/Karastan/43442-9104	Yellow/Gold
 459	Lavender	http://s7d5.scene7.com/is/image/Karastan/43442-9120	Purple
+459	Legacy	http://s7d5.scene7.com/is/image/Karastan/43442-9117	Red/Rust
 459	Legacy	http://s7d5.scene7.com/is/image/Karastan/43442-9117	White/Ivory
+459	Lemon Tree	http://s7d5.scene7.com/is/image/Karastan/43442-9128	Blue
 459	Lemon Tree	http://s7d5.scene7.com/is/image/Karastan/43442-9128	Yellow/Gold
 459	Lost Lagoon	http://s7d5.scene7.com/is/image/Karastan/43442-9110	Blue
+459	Lost Lagoon	http://s7d5.scene7.com/is/image/Karastan/43442-9110	Grey/Black
+459	Lush Gardens	http://s7d5.scene7.com/is/image/Karastan/43442-9144	Beige/Brown
 459	Lush Gardens	http://s7d5.scene7.com/is/image/Karastan/43442-9144	Green
 459	Mediterranean	http://s7d5.scene7.com/is/image/Karastan/43442-9111	Blue
+459	Mediterranean	http://s7d5.scene7.com/is/image/Karastan/43442-9111	Grey/Black
 459	Mezzaluna	http://s7d5.scene7.com/is/image/Karastan/43442-9127	Beige/Brown
+459	Mezzaluna	http://s7d5.scene7.com/is/image/Karastan/43442-9127	Purple
 459	Mineral Water	http://s7d5.scene7.com/is/image/Karastan/43442-9129	Beige/Brown
+459	Mineral Water	http://s7d5.scene7.com/is/image/Karastan/43442-9129	White/Ivory
+459	Monument	http://s7d5.scene7.com/is/image/Karastan/43442-9108	Beige/Brown
 459	Monument	http://s7d5.scene7.com/is/image/Karastan/43442-9108	Grey/Black
 459	Nobility	http://s7d5.scene7.com/is/image/Karastan/43442-9124	Beige/Brown
+459	Nobility	http://s7d5.scene7.com/is/image/Karastan/43442-9124	Green
+459	Olive Grove	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Beige/Brown
 459	Olive Grove	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Green
 459	Ornate Facade	http://s7d5.scene7.com/is/image/Karastan/43442-9114	Beige/Brown
+459	Ornate Facade	http://s7d5.scene7.com/is/image/Karastan/43442-9114	White/Ivory
 459	Peninsula	http://s7d5.scene7.com/is/image/Karastan/43442-9137	Beige/Brown
+459	Peninsula	http://s7d5.scene7.com/is/image/Karastan/43442-9137	Green
 459	Piazza	http://s7d5.scene7.com/is/image/Karastan/43442-9136	Beige/Brown
 459	Port City	http://s7d5.scene7.com/is/image/Karastan/43442-9109	Blue
+459	Port City	http://s7d5.scene7.com/is/image/Karastan/43442-9109	Grey/Black
 459	Province	http://s7d5.scene7.com/is/image/Karastan/43442-9115	Beige/Brown
+459	Province	http://s7d5.scene7.com/is/image/Karastan/43442-9115	White/Ivory
 459	Relic	http://s7d5.scene7.com/is/image/Karastan/43442-9125	Beige/Brown
+459	Relic	http://s7d5.scene7.com/is/image/Karastan/43442-9125	Blue
+459	Rolling Hills	http://s7d5.scene7.com/is/image/Karastan/43442-9143	Beige/Brown
 459	Rolling Hills	http://s7d5.scene7.com/is/image/Karastan/43442-9143	Green
 459	Rustic Charm	http://s7d5.scene7.com/is/image/Karastan/43442-9134	Beige/Brown
+459	Rustic Charm	http://s7d5.scene7.com/is/image/Karastan/43442-9134	Blue
 459	Shoreline	http://s7d5.scene7.com/is/image/Karastan/43442-9116	Beige/Brown
+459	Shoreline	http://s7d5.scene7.com/is/image/Karastan/43442-9116	Yellow/Gold
 459	Under The Sun	http://s7d5.scene7.com/is/image/Karastan/43442-9132	Beige/Brown
 459	Veranda	http://s7d5.scene7.com/is/image/Karastan/43442-9135	Beige/Brown
 459	Villaggio	http://s7d5.scene7.com/is/image/Karastan/43442-9113	Beige/Brown
+459	Villaggio	http://s7d5.scene7.com/is/image/Karastan/43442-9113	White/Ivory
 459	Vineyard	http://s7d5.scene7.com/is/image/Karastan/43442-9121	Beige/Brown
+459	Vineyard	http://s7d5.scene7.com/is/image/Karastan/43442-9121	Grey/Black
+459	Winery	http://s7d5.scene7.com/is/image/Karastan/43442-9122	Grey/Black
 459	Winery	http://s7d5.scene7.com/is/image/Karastan/43442-9122	Red/Rust
+460	Aged Stucco	http://s7d5.scene7.com/is/image/Karastan/43442-9107	Beige/Brown
 460	Aged Stucco	http://s7d5.scene7.com/is/image/Karastan/43442-9107	White/Ivory
 460	Ancient Villa	http://s7d5.scene7.com/is/image/Karastan/43442-9102	Beige/Brown
+460	Ancient Villa	http://s7d5.scene7.com/is/image/Karastan/43442-9102	White/Ivory
+460	Artifact	http://s7d5.scene7.com/is/image/Karastan/43442-9119	Beige/Brown
 460	Artifact	http://s7d5.scene7.com/is/image/Karastan/43442-9119	Grey/Black
 460	Artistic Style	http://s7d5.scene7.com/is/image/Karastan/43442-9131	Beige/Brown
 460	Beach Resort	http://s7d5.scene7.com/is/image/Karastan/43442-9130	Beige/Brown
+460	Beach Resort	http://s7d5.scene7.com/is/image/Karastan/43442-9130	Green
 460	Castello	http://s7d5.scene7.com/is/image/Karastan/43442-9103	Beige/Brown
 460	Coastal Sands	http://s7d5.scene7.com/is/image/Karastan/43442-9118	Beige/Brown
+460	Coastal Sands	http://s7d5.scene7.com/is/image/Karastan/43442-9118	Red/Rust
 460	Cobblestone	http://s7d5.scene7.com/is/image/Karastan/43442-9140	Beige/Brown
+460	Contessa	http://s7d5.scene7.com/is/image/Karastan/43442-9106	Red/Rust
 460	Contessa	http://s7d5.scene7.com/is/image/Karastan/43442-9106	White/Ivory
 460	Cultural Centre	http://s7d5.scene7.com/is/image/Karastan/43442-9123	Beige/Brown
+460	Cultural Centre	http://s7d5.scene7.com/is/image/Karastan/43442-9123	Green
 460	Dynasty	http://s7d5.scene7.com/is/image/Karastan/43442-9126	Beige/Brown
+460	Dynasty	http://s7d5.scene7.com/is/image/Karastan/43442-9126	Blue
+460	Early Ray	http://s7d5.scene7.com/is/image/Karastan/43442-9105	Red/Rust
 460	Early Ray	http://s7d5.scene7.com/is/image/Karastan/43442-9105	White/Ivory
 460	Empire Red	http://s7d5.scene7.com/is/image/Karastan/43442-9133	Red/Rust
 460	Fortezza	http://s7d5.scene7.com/is/image/Karastan/43442-9101	Beige/Brown
+460	Fortezza	http://s7d5.scene7.com/is/image/Karastan/43442-9101	White/Ivory
+460	Frescoes	http://s7d5.scene7.com/is/image/Karastan/43442-9139	Purple
 460	Frescoes	http://s7d5.scene7.com/is/image/Karastan/43442-9139	White/Ivory
 460	Gondola	http://s7d5.scene7.com/is/image/Karastan/43442-9112	Beige/Brown
+460	Gondola	http://s7d5.scene7.com/is/image/Karastan/43442-9112	White/Ivory
+460	Grand Canal	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Beige/Brown
 460	Grand Canal	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Green
 460	Heirloom	http://s7d5.scene7.com/is/image/Karastan/43442-9138	Beige/Brown
 460	High Society	http://s7d5.scene7.com/is/image/Karastan/43442-9104	Beige/Brown
+460	High Society	http://s7d5.scene7.com/is/image/Karastan/43442-9104	Yellow/Gold
 460	Lavender	http://s7d5.scene7.com/is/image/Karastan/43442-9120	Purple
+460	Legacy	http://s7d5.scene7.com/is/image/Karastan/43442-9117	Red/Rust
 460	Legacy	http://s7d5.scene7.com/is/image/Karastan/43442-9117	White/Ivory
+460	Lemon Tree	http://s7d5.scene7.com/is/image/Karastan/43442-9128	Blue
 460	Lemon Tree	http://s7d5.scene7.com/is/image/Karastan/43442-9128	Yellow/Gold
 460	Lost Lagoon	http://s7d5.scene7.com/is/image/Karastan/43442-9110	Blue
+460	Lost Lagoon	http://s7d5.scene7.com/is/image/Karastan/43442-9110	Grey/Black
+460	Lush Gardens	http://s7d5.scene7.com/is/image/Karastan/43442-9144	Beige/Brown
 460	Lush Gardens	http://s7d5.scene7.com/is/image/Karastan/43442-9144	Green
 460	Mediterranean	http://s7d5.scene7.com/is/image/Karastan/43442-9111	Blue
+460	Mediterranean	http://s7d5.scene7.com/is/image/Karastan/43442-9111	Grey/Black
 460	Mezzaluna	http://s7d5.scene7.com/is/image/Karastan/43442-9127	Beige/Brown
+460	Mezzaluna	http://s7d5.scene7.com/is/image/Karastan/43442-9127	Purple
 460	Mineral Water	http://s7d5.scene7.com/is/image/Karastan/43442-9129	Beige/Brown
+460	Mineral Water	http://s7d5.scene7.com/is/image/Karastan/43442-9129	White/Ivory
+460	Monument	http://s7d5.scene7.com/is/image/Karastan/43442-9108	Beige/Brown
 460	Monument	http://s7d5.scene7.com/is/image/Karastan/43442-9108	Grey/Black
 460	Nobility	http://s7d5.scene7.com/is/image/Karastan/43442-9124	Beige/Brown
+460	Nobility	http://s7d5.scene7.com/is/image/Karastan/43442-9124	Green
+460	Olive Grove	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Beige/Brown
 460	Olive Grove	http://s7d5.scene7.com/is/image/Karastan/43442-9142	Green
 460	Ornate Facade	http://s7d5.scene7.com/is/image/Karastan/43442-9114	Beige/Brown
+460	Ornate Facade	http://s7d5.scene7.com/is/image/Karastan/43442-9114	White/Ivory
 460	Peninsula	http://s7d5.scene7.com/is/image/Karastan/43442-9137	Beige/Brown
+460	Peninsula	http://s7d5.scene7.com/is/image/Karastan/43442-9137	Green
 460	Piazza	http://s7d5.scene7.com/is/image/Karastan/43442-9136	Beige/Brown
 460	Port City	http://s7d5.scene7.com/is/image/Karastan/43442-9109	Blue
+460	Port City	http://s7d5.scene7.com/is/image/Karastan/43442-9109	Grey/Black
 460	Province	http://s7d5.scene7.com/is/image/Karastan/43442-9115	Beige/Brown
+460	Province	http://s7d5.scene7.com/is/image/Karastan/43442-9115	White/Ivory
 460	Relic	http://s7d5.scene7.com/is/image/Karastan/43442-9125	Beige/Brown
+460	Relic	http://s7d5.scene7.com/is/image/Karastan/43442-9125	Blue
+460	Rolling Hills	http://s7d5.scene7.com/is/image/Karastan/43442-9143	Beige/Brown
 460	Rolling Hills	http://s7d5.scene7.com/is/image/Karastan/43442-9143	Green
 460	Rustic Charm	http://s7d5.scene7.com/is/image/Karastan/43442-9134	Beige/Brown
+460	Rustic Charm	http://s7d5.scene7.com/is/image/Karastan/43442-9134	Blue
 460	Shoreline	http://s7d5.scene7.com/is/image/Karastan/43442-9116	Beige/Brown
+460	Shoreline	http://s7d5.scene7.com/is/image/Karastan/43442-9116	Yellow/Gold
 460	Under The Sun	http://s7d5.scene7.com/is/image/Karastan/43442-9132	Beige/Brown
 460	Veranda	http://s7d5.scene7.com/is/image/Karastan/43442-9135	Beige/Brown
 460	Villaggio	http://s7d5.scene7.com/is/image/Karastan/43442-9113	Beige/Brown
+460	Villaggio	http://s7d5.scene7.com/is/image/Karastan/43442-9113	White/Ivory
 460	Vineyard	http://s7d5.scene7.com/is/image/Karastan/43442-9121	Beige/Brown
+460	Vineyard	http://s7d5.scene7.com/is/image/Karastan/43442-9121	Grey/Black
+460	Winery	http://s7d5.scene7.com/is/image/Karastan/43442-9122	Grey/Black
 460	Winery	http://s7d5.scene7.com/is/image/Karastan/43442-9122	Red/Rust
 461	Acapulco	http://s7d5.scene7.com/is/image/Karastan/43396_9872	Beige/Brown
 461	Allure White	http://s7d5.scene7.com/is/image/Karastan/43396_9717	White/Ivory
@@ -4351,6 +4464,7 @@ manufacturers_id	color_name	color_image_url	color_category
 463	South Beach*	http://s7d5.scene7.com/is/image/Karastan/43381_9713	Grey/Black
 463	Stonehenge*	http://s7d5.scene7.com/is/image/Karastan/43381_9859	Grey/Black
 463	Summer Khaki	http://s7d5.scene7.com/is/image/Karastan/43381_9736	Grey/Black
+463	Summer Khaki	http://s7d5.scene7.com/is/image/Karastan/43381_9736	White/Ivory
 463	Sundance	http://s7d5.scene7.com/is/image/Karastan/43381_9752	Beige/Brown
 463	Swaying Palm	http://s7d5.scene7.com/is/image/Karastan/43381_9686	Green
 463	Tahiti*	http://s7d5.scene7.com/is/image/Karastan/43381_9852	Beige/Brown
@@ -5740,11 +5854,14 @@ manufacturers_id	color_name	color_image_url	color_category
 538	Shoreline	http://s7d5.scene7.com/is/image/Karastan/43445-9115	Beige/Brown
 538	Villaggio	http://s7d5.scene7.com/is/image/Karastan/43445-9113	Beige/Brown
 539	Abalone	http://s7d5.scene7.com/is/image/Karastan/27526-712	White/Ivory
+539	Amaranth	http://s7d5.scene7.com/is/image/Karastan/27526-278	Beige/Brown
 539	Amaranth	http://s7d5.scene7.com/is/image/Karastan/27526-278	Red/Rust
 539	Amber Shadow	http://s7d5.scene7.com/is/image/Karastan/27526-868	Beige/Brown
+539	Apricot Tea	http://s7d5.scene7.com/is/image/Karastan/27526-242	Green
 539	Apricot Tea	http://s7d5.scene7.com/is/image/Karastan/27526-242	Red/Rust
 539	Biscotti	http://s7d5.scene7.com/is/image/Karastan/27526-721	Beige/Brown
 539	Brandywine	http://s7d5.scene7.com/is/image/Karastan/27526-382	Red/Rust
+539	Brandywine	http://s7d5.scene7.com/is/image/Karastan/27526-382	Yellow/Gold
 539	Burl Walnut	http://s7d5.scene7.com/is/image/Karastan/27526-879	Beige/Brown
 539	Capistrano	http://s7d5.scene7.com/is/image/Karastan/27526-131	Yellow/Gold
 539	Carribean Coral	http://s7d5.scene7.com/is/image/Karastan/27526-243	Red/Rust
@@ -5758,10 +5875,12 @@ manufacturers_id	color_name	color_image_url	color_category
 539	Enchanted Forest	http://s7d5.scene7.com/is/image/Karastan/27526-688	Green
 539	Excalibur	http://s7d5.scene7.com/is/image/Karastan/27526-886	Beige/Brown
 539	Fantasia	http://s7d5.scene7.com/is/image/Karastan/27526-714	White/Ivory
+539	Foxglove	http://s7d5.scene7.com/is/image/Karastan/27526-445	Beige/Brown
 539	Foxglove	http://s7d5.scene7.com/is/image/Karastan/27526-445	Purple
 539	Heirloom Pink	http://s7d5.scene7.com/is/image/Karastan/27526-321	Purple
 539	Illusive Taupe	http://s7d5.scene7.com/is/image/Karastan/27526-837	Beige/Brown
 539	Luminescence	http://s7d5.scene7.com/is/image/Karastan/27526-841	Beige/Brown
+539	Lustre Glow	http://s7d5.scene7.com/is/image/Karastan/27526-127	Blue
 539	Lustre Glow	http://s7d5.scene7.com/is/image/Karastan/27526-127	Yellow/Gold
 539	Midas	http://s7d5.scene7.com/is/image/Karastan/27526-781	Beige/Brown
 539	Mobe Pearl	http://s7d5.scene7.com/is/image/Karastan/27526-737	Beige/Brown
@@ -5772,6 +5891,8 @@ manufacturers_id	color_name	color_image_url	color_category
 539	Raw Silk	http://s7d5.scene7.com/is/image/Karastan/27526-738	Beige/Brown
 539	Rich Maple	http://s7d5.scene7.com/is/image/Karastan/27526-847	Beige/Brown
 539	Rose Quartz	http://s7d5.scene7.com/is/image/Karastan/27526-344	Purple
+539	Rose Quartz	http://s7d5.scene7.com/is/image/Karastan/27526-344	Red/Rust
+539	Royal Garnet	http://s7d5.scene7.com/is/image/Karastan/27526-383	Beige/Brown
 539	Royal Garnet	http://s7d5.scene7.com/is/image/Karastan/27526-383	Red/Rust
 539	Sapphire Ice	http://s7d5.scene7.com/is/image/Karastan/27526-575	Blue
 539	Sauterne	http://s7d5.scene7.com/is/image/Karastan/27526-878	Beige/Brown
@@ -5800,15 +5921,20 @@ manufacturers_id	color_name	color_image_url	color_category
 540	Brigadoon	http://s7d5.scene7.com/is/image/Karastan/27526-879	Beige/Brown
 540	Cape Verde	http://s7d5.scene7.com/is/image/Karastan/27526-688	Green
 540	Carriage Door	http://s7d5.scene7.com/is/image/Karastan/27526-382	Red/Rust
+540	Claret	http://s7d5.scene7.com/is/image/Karastan/27526-383	Beige/Brown
 540	Claret	http://s7d5.scene7.com/is/image/Karastan/27526-383	Red/Rust
 540	Coquina Shell	http://s7d5.scene7.com/is/image/Karastan/27526-712	White/Ivory
 540	Cyrstal Orchid	http://s7d5.scene7.com/is/image/Karastan/27526-714	White/Ivory
+540	Exotic Bloom	http://s7d5.scene7.com/is/image/Karastan/27526-243	Blue
 540	Exotic Bloom	http://s7d5.scene7.com/is/image/Karastan/27526-243	Red/Rust
+540	Firefly	http://s7d5.scene7.com/is/image/Karastan/27526-127	Blue
 540	Firefly	http://s7d5.scene7.com/is/image/Karastan/27526-127	Yellow/Gold
+540	Flirtatious	http://s7d5.scene7.com/is/image/Karastan/27526-321	Blue
 540	Flirtatious	http://s7d5.scene7.com/is/image/Karastan/27526-321	Purple
 540	Fresco Cream	http://s7d5.scene7.com/is/image/Karastan/27526-823	Beige/Brown
 540	Glace	http://s7d5.scene7.com/is/image/Karastan/27526-718	White/Ivory
 540	Harmony	http://s7d5.scene7.com/is/image/Karastan/27526-665	Green
+540	Jonquil	http://s7d5.scene7.com/is/image/Karastan/27526-131	Blue
 540	Jonquil	http://s7d5.scene7.com/is/image/Karastan/27526-131	Yellow/Gold
 540	Lakeside	http://s7d5.scene7.com/is/image/Karastan/27526-536	Blue
 540	Laurel Wreath	http://s7d5.scene7.com/is/image/Karastan/27526-675	Green
@@ -5834,11 +5960,14 @@ manufacturers_id	color_name	color_image_url	color_category
 540	Splash	http://s7d5.scene7.com/is/image/Karastan/27526-645	Blue
 540	Stormy Lilac	http://s7d5.scene7.com/is/image/Karastan/27526-824	Beige/Brown
 540	Sunwashed	http://s7d5.scene7.com/is/image/Karastan/27526-731	Beige/Brown
+540	Winters End	http://s7d5.scene7.com/is/image/Karastan/27526-713	Beige/Brown
 540	Winters End	http://s7d5.scene7.com/is/image/Karastan/27526-713	White/Ivory
 540	Wisteria	http://s7d5.scene7.com/is/image/Karastan/27526-445	Purple
+540	Wisteria	http://s7d5.scene7.com/is/image/Karastan/27526-445	Yellow/Gold
 540	Worn Leather	http://s7d5.scene7.com/is/image/Karastan/27526-838	Beige/Brown
 541	Alabaster	http://s7d5.scene7.com/is/image/Karastan/27526-728	Beige/Brown
 541	Antique Red	http://s7d5.scene7.com/is/image/Karastan/27526-382	Red/Rust
+541	Antique Red	http://s7d5.scene7.com/is/image/Karastan/27526-382	Yellow/Gold
 541	Auburn	http://s7d5.scene7.com/is/image/Karastan/27526-882	Red/Rust
 541	Botanical Bliss	http://s7d5.scene7.com/is/image/Karastan/27526-688	Green
 541	Buttered Caramel	http://s7d5.scene7.com/is/image/Karastan/27526-731	Beige/Brown
@@ -5848,6 +5977,7 @@ manufacturers_id	color_name	color_image_url	color_category
 541	Cherry Blossom	http://s7d5.scene7.com/is/image/Karastan/27526-243	Red/Rust
 541	Contempo	http://s7d5.scene7.com/is/image/Karastan/27526-823	Beige/Brown
 541	Contessa	http://s7d5.scene7.com/is/image/Karastan/27526-846	Beige/Brown
+541	Copper Mountain	http://s7d5.scene7.com/is/image/Karastan/27526-278	Beige/Brown
 541	Copper Mountain	http://s7d5.scene7.com/is/image/Karastan/27526-278	Red/Rust
 541	Dewkist	http://s7d5.scene7.com/is/image/Karastan/27526-641	Green
 541	Doubloon	http://s7d5.scene7.com/is/image/Karastan/27526-841	Beige/Brown
@@ -5856,14 +5986,18 @@ manufacturers_id	color_name	color_image_url	color_category
 541	Fern Canopy	http://s7d5.scene7.com/is/image/Karastan/27526-648	Green
 541	Fired Clay	http://s7d5.scene7.com/is/image/Karastan/27526-872	Red/Rust
 541	Fragile Beauty	http://s7d5.scene7.com/is/image/Karastan/27526-837	Beige/Brown
+541	Full Moon	http://s7d5.scene7.com/is/image/Karastan/27526-713	Beige/Brown
 541	Full Moon	http://s7d5.scene7.com/is/image/Karastan/27526-713	White/Ivory
 541	Heather Scent	http://s7d5.scene7.com/is/image/Karastan/27526-445	Purple
+541	Heather Scent	http://s7d5.scene7.com/is/image/Karastan/27526-445	Yellow/Gold
 541	High Noon	http://s7d5.scene7.com/is/image/Karastan/27526-781	Beige/Brown
+541	Honeysuckle	http://s7d5.scene7.com/is/image/Karastan/27526-127	Blue
 541	Honeysuckle	http://s7d5.scene7.com/is/image/Karastan/27526-127	Yellow/Gold
 541	Hudson Bay	http://s7d5.scene7.com/is/image/Karastan/27526-595	Blue
 541	Ice Ballet	http://s7d5.scene7.com/is/image/Karastan/27526-714	White/Ivory
 541	Inviting Ivory	http://s7d5.scene7.com/is/image/Karastan/27526-718	White/Ivory
 541	Key Largo	http://s7d5.scene7.com/is/image/Karastan/27526-645	Blue
+541	Mango	http://s7d5.scene7.com/is/image/Karastan/27526-242	Blue
 541	Mango	http://s7d5.scene7.com/is/image/Karastan/27526-242	Red/Rust
 541	Mauve Blush	http://s7d5.scene7.com/is/image/Karastan/27526-824	Beige/Brown
 541	Mediterranean Sky	http://s7d5.scene7.com/is/image/Karastan/27526-545	Blue
@@ -5877,7 +6011,9 @@ manufacturers_id	color_name	color_image_url	color_category
 541	Purple Reign	http://s7d5.scene7.com/is/image/Karastan/27526-474	Purple
 541	Silver Mist	http://s7d5.scene7.com/is/image/Karastan/27526-929	Grey/Black
 541	Steeplechase	http://s7d5.scene7.com/is/image/Karastan/27526-879	Beige/Brown
+541	Stolen Kiss	http://s7d5.scene7.com/is/image/Karastan/27526-383	Beige/Brown
 541	Stolen Kiss	http://s7d5.scene7.com/is/image/Karastan/27526-383	Red/Rust
+541	Strawberry Delight	http://s7d5.scene7.com/is/image/Karastan/27526-344	Beige/Brown
 541	Strawberry Delight	http://s7d5.scene7.com/is/image/Karastan/27526-344	Purple
 541	Tawny Bronze	http://s7d5.scene7.com/is/image/Karastan/27526-868	Beige/Brown
 541	Topaz	http://s7d5.scene7.com/is/image/Karastan/27526-878	Beige/Brown

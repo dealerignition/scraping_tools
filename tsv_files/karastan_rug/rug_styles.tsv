@@ -1,16 +1,16 @@
 manufacturers_id	style_name
-47	Traditional/ Persian
-160	Traditional/ Persian
-125	Traditional/ Persian
-153	Traditional/ Persian
+47	Traditional/Persian
+160	Traditional/Persian
+125	Traditional/Persian
+153	Traditional/Persian
 11	Casual
-11	Check/Plaid/ Stripe
+11	Check/Plaid/Stripe
 27	Casual
-27	Check/Plaid/ Stripe
+27	Check/Plaid/Stripe
 51	Casual
-51	Check/Plaid/ Stripe
+51	Check/Plaid/Stripe
 99	Casual
-99	Check/Plaid/ Stripe
+99	Check/Plaid/Stripe
 182	Contemporary
 183	Contemporary
 179	Contemporary
@@ -23,71 +23,37 @@ manufacturers_id	style_name
 175	Contemporary
 176	Contemporary
 178	Contemporary
-113	Traditional/ Persian
+113	Traditional/Persian
 113	Trellis/Floral
-151	Traditional/ Persian
+151	Traditional/Persian
 151	Trellis/Floral
-170	Traditional/ Persian
-84	Traditional/ Persian
-75	Traditional/ Persian
-152	Traditional/ Persian
+170	Traditional/Persian
+84	Traditional/Persian
+75	Traditional/Persian
+152	Traditional/Persian
 145	Casual
-145	Check/Plaid/ Stripe
+145	Check/Plaid/Stripe
 93	Casual
-93	Check/Plaid/ Stripe
+93	Check/Plaid/Stripe
 55	Casual
-55	Check/Plaid/ Stripe
+55	Check/Plaid/Stripe
 28	Casual
-28	Check/Plaid/ Stripe
+28	Check/Plaid/Stripe
 16	Casual
-16	Check/Plaid/ Stripe
-184	Traditional/ Persian
-3	Traditional/ Persian
+16	Check/Plaid/Stripe
+184	Traditional/Persian
+3	Traditional/Persian
 57	Casual
-57	Check/Plaid/ Stripe
-5	Traditional/ Persian
-232	Check/Plaid/ Stripe
-233	Check/Plaid/ Stripe
-234	Check/Plaid/ Stripe
-218	Contemporary
-219	Contemporary
-215	Check/Plaid/ Stripe
-213	Check/Plaid/ Stripe
-216	Check/Plaid/ Stripe
-195	Trellis/Floral
-196	Trellis/Floral
-197	Trellis/Floral
-198	Trellis/Floral
-199	Trellis/Floral
-200	Trellis/Floral
-204	Trellis/Floral
-203	Trellis/Floral
-201	Trellis/Floral
-205	Trellis/Floral
-208	Trellis/Floral
-207	Trellis/Floral
-206	Trellis/Floral
-217	Animal Prints
-226	Contemporary
-228	Contemporary
-229	Contemporary
-230	Contemporary
-227	Contemporary
-191	Check/Plaid/ Stripe
+57	Check/Plaid/Stripe
+5	Traditional/Persian
+232	Check/Plaid/Stripe
+233	Check/Plaid/Stripe
+191	Check/Plaid/Stripe
 38	Trellis/Floral
 42	Trellis/Floral
-209	Check/Plaid/ Stripe
-212	Check/Plaid/ Stripe
-211	Check/Plaid/ Stripe
-210	Check/Plaid/ Stripe
-149	Traditional/ Persian
-148	Traditional/ Persian
-220	Trellis/Floral
-221	Trellis/Floral
-225	Trellis/Floral
-223	Trellis/Floral
-222	Trellis/Floral
-231	Check/Plaid/ Stripe
+149	Traditional/Persian
+148	Traditional/Persian
+231	Check/Plaid/Stripe
 127	Trellis/Floral
 129	Trellis/Floral
 130	Trellis/Floral
@@ -100,39 +66,13 @@ manufacturers_id	style_name
 140	Trellis/Floral
 141	Trellis/Floral
 143	Trellis/Floral
-235	Animal Prints
-236	Animal Prints
-238	Contemporary
-238	Trellis/Floral
-239	Contemporary
-239	Trellis/Floral
-240	Contemporary
-241	Contemporary
-242	Contemporary
-243	Contemporary
-244	Contemporary
-244	Check/Plaid/ Stripe
 245	Contemporary
-245	Check/Plaid/ Stripe
-246	Contemporary
-246	Trellis/Floral
-247	Contemporary
-247	Trellis/Floral
-248	Contemporary
-248	Trellis/Floral
-249	Contemporary
-249	Trellis/Floral
-251	Contemporary
-251	Trellis/Floral
-252	Contemporary
-252	Animal Prints
-253	Contemporary
-253	Animal Prints
-2	Traditional/ Persian
+245	Check/Plaid/Stripe
+2	Traditional/Persian
 36	Trellis/Floral
-23	Traditional/ Persian
+23	Traditional/Persian
 23	Casual
-24	Traditional/ Persian
+24	Traditional/Persian
 24	Casual
 155	Contemporary
 155	Casual
@@ -145,17 +85,15 @@ manufacturers_id	style_name
 66	Trellis/Floral
 71	Casual
 71	Trellis/Floral
-102	Traditional/ Persian
+102	Traditional/Persian
 102	Casual
-101	Traditional/ Persian
-101	Casual
-103	Traditional/ Persian
+103	Traditional/Persian
 103	Casual
 100	Casual
 100	Trellis/Floral
-118	Traditional/ Persian
+118	Traditional/Persian
 118	Casual
-21	Traditional/ Persian
+21	Traditional/Persian
 295	Contemporary
 298	Contemporary
 296	Contemporary
@@ -165,22 +103,22 @@ manufacturers_id	style_name
 304	Contemporary
 294	Contemporary
 293	Contemporary
-258	Traditional/ Persian
-257	Traditional/ Persian
-263	Traditional/ Persian
-262	Traditional/ Persian
-261	Traditional/ Persian
-255	Traditional/ Persian
-256	Traditional/ Persian
-254	Traditional/ Persian
+258	Traditional/Persian
+257	Traditional/Persian
+263	Traditional/Persian
+262	Traditional/Persian
+261	Traditional/Persian
+255	Traditional/Persian
+256	Traditional/Persian
+254	Traditional/Persian
 284	Animal Prints
 283	Animal Prints
 289	Animal Prints
 302	Contemporary
 301	Contemporary
-259	Traditional/ Persian
-260	Traditional/ Persian
-186	Traditional/ Persian
+259	Traditional/Persian
+260	Traditional/Persian
+186	Traditional/Persian
 186	Trellis/Floral
 306	Contemporary
 307	Contemporary
@@ -206,76 +144,74 @@ manufacturers_id	style_name
 271	Contemporary
 281	Contemporary
 278	Contemporary
-159	Traditional/ Persian
-310	Traditional/ Persian
-311	Traditional/ Persian
+159	Traditional/Persian
+310	Traditional/Persian
+311	Traditional/Persian
 319	Contemporary
 314	Trellis/Floral
 312	Casual
 312	Trellis/Floral
 317	Contemporary
 317	Trellis/Floral
-316	Traditional/ Persian
+316	Traditional/Persian
 316	Trellis/Floral
-309	Traditional/ Persian
-81	Traditional/ Persian
+309	Traditional/Persian
+81	Traditional/Persian
 318	Contemporary
-18	Traditional/ Persian
-20	Traditional/ Persian
-22	Traditional/ Persian
+18	Traditional/Persian
+20	Traditional/Persian
+22	Traditional/Persian
 37	Trellis/Floral
 41	Trellis/Floral
-56	Traditional/ Persian
-70	Traditional/ Persian
-82	Traditional/ Persian
+56	Traditional/Persian
+70	Traditional/Persian
+82	Traditional/Persian
 107	Casual
 107	Trellis/Floral
 106	Casual
 106	Trellis/Floral
-108	Traditional/ Persian
-109	Traditional/ Persian
+108	Traditional/Persian
+109	Traditional/Persian
 128	Casual
 128	Trellis/Floral
 138	Casual
 138	Trellis/Floral
-144	Traditional/ Persian
-58	Traditional/ Persian
-79	Traditional/ Persian
-48	Traditional/ Persian
-92	Traditional/ Persian
+144	Traditional/Persian
+58	Traditional/Persian
+79	Traditional/Persian
+48	Traditional/Persian
+92	Traditional/Persian
 313	Contemporary
 313	Trellis/Floral
 315	Trellis/Floral
 308	Contemporary
-237	Contemporary
-237	Trellis/Floral
-10	Traditional/ Persian
-104	Traditional/ Persian
+10	Traditional/Persian
+104	Traditional/Persian
 72	Casual
 72	Trellis/Floral
-83	Traditional/ Persian
-320	Traditional/ Persian
+83	Traditional/Persian
+320	Traditional/Persian
 324	Casual
-325	Traditional/ Persian
+325	Traditional/Persian
 326	Trellis/Floral
-327	Traditional/ Persian
-321	Traditional/ Persian
-322	Traditional/ Persian
-323	Traditional/ Persian
-49	Traditional/ Persian
-328	Traditional/ Persian
-329	Traditional/ Persian
-330	Traditional/ Persian
+327	Traditional/Persian
+321	Traditional/Persian
+322	Traditional/Persian
+323	Traditional/Persian
+49	Traditional/Persian
+328	Traditional/Persian
+329	Traditional/Persian
+330	Traditional/Persian
 331	Contemporary
 332	Contemporary
-334	Traditional/ Persian
+334	Traditional/Persian
 336	Contemporary
 335	Contemporary
 337	Contemporary
-338	Traditional/ Persian
-339	Traditional/ Persian
-340	Traditional/ Persian
-95	Traditional/ Persian
+338	Traditional/Persian
+339	Traditional/Persian
+340	Traditional/Persian
+95	Traditional/Persian
 354	Casual
 349	Contemporary
 349	Casual
@@ -284,43 +220,43 @@ manufacturers_id	style_name
 346	Trellis/Floral
 347	Trellis/Floral
 348	Trellis/Floral
-344	Traditional/ Persian
+344	Traditional/Persian
 344	Trellis/Floral
-342	Traditional/ Persian
+342	Traditional/Persian
 342	Trellis/Floral
-345	Traditional/ Persian
+345	Traditional/Persian
 345	Trellis/Floral
-351	Traditional/ Persian
+351	Traditional/Persian
 333	Contemporary
-86	Traditional/ Persian
+86	Traditional/Persian
 361	Casual
-363	Traditional/ Persian
-368	Traditional/ Persian
-370	Traditional/ Persian
-376	Traditional/ Persian
+363	Traditional/Persian
+368	Traditional/Persian
+370	Traditional/Persian
+376	Traditional/Persian
 353	Casual
-375	Traditional/ Persian
-377	Traditional/ Persian
-367	Traditional/ Persian
+375	Traditional/Persian
+377	Traditional/Persian
+367	Traditional/Persian
 360	Casual
 359	Casual
 373	Casual
 372	Casual
-356	Traditional/ Persian
-355	Traditional/ Persian
+356	Traditional/Persian
+355	Traditional/Persian
 374	Casual
 362	Casual
 357	Casual
 358	Casual
 364	Casual
 365	Casual
-366	Traditional/ Persian
+366	Traditional/Persian
 371	Casual
-380	Traditional/ Persian
+380	Traditional/Persian
 380	Casual
 383	Casual
 379	Casual
 382	Casual
 382	Trellis/Floral
-384	Traditional/ Persian
+384	Traditional/Persian
 378	Casual
