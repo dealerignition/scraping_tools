@@ -12,24 +12,24 @@ new_style = {:style_name => ""}
 new_color = {:color_name => "", :color_category => "", :color_image_url => ""}
 
 2.upto(workbook.last_row) do |line|
-  if carpets[workbook.cell(line, 'D')]
-    cur_carpet = carpets[workbook.cell(line, 'D')]
+  if carpets[workbook.cell(line, 'E')]
+    cur_carpet = carpets[workbook.cell(line, 'E')]
   else
     cur_carpet = new_carpet.clone
     cur_carpet[:styles] = []
     cur_carpet[:colors] = []
     cur_carpet[:name] = workbook.cell(line, 'E')
     cur_carpet[:warranty] = workbook.cell(line, 'AO')
-    cur_carpet[:details] = workbook.cell(line, 'U')
+    cur_carpet[:details] = '"' + workbook.cell(line, 'U') + '"' if workbook.cell(line, 'U')
     cur_carpet[:brand_name] = workbook.cell(line, 'B')
-    cur_carpet[:room_image_url] = workbook.cell(line, 'K')
+    cur_carpet[:room_image_url] = 'http://s3.amazonaws.com/dealer_ignition/scraping_tools/masland/broadloom/RoomScenes/' + workbook.cell(line, 'K') if workbook.cell(line, 'K')
     cur_carpet[:fiber_name] = workbook.cell(line, 'O')
     cur_carpet[:texture_name] = workbook.cell(line, 'W')
   end
 
-  if not cur_carpet[:styles].include?({:style_name => workbook.cell(line, 'K')})
+  if not cur_carpet[:styles].include?({:style_name => workbook.cell(line, 'AC')})
     cur_carpet[:styles] << {
-      :style_name => workbook.cell(line, 'K')
+      :style_name => workbook.cell(line, 'AC')
     }
   end
 
@@ -38,11 +38,13 @@ new_color = {:color_name => "", :color_category => "", :color_image_url => ""}
     :color_category => "Masland Custom",
     :color_image_url => workbook.cell(line, 'J')
   })
-    cur_carpet[:colors] << {
-      :color_name => workbook.cell(line, 'G'),
-      :color_category => "Masland Custom",
-      :color_image_url => workbook.cell(line, 'J')
-    }
+    if workbook.cell(line, 'J')
+      cur_carpet[:colors] << {
+        :color_name => workbook.cell(line, 'G'),
+        :color_category => "Masland Custom",
+        :color_image_url => 'http://s3.amazonaws.com/dealer_ignition/scraping_tools/masland/broadloom/Swatches/' + workbook.cell(line, 'J')
+      }
+    end
   end
 
   carpets[workbook.cell(line, 'E')] = cur_carpet
