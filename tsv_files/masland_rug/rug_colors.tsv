@@ -1,4 +1,4 @@
-manufacturers_id	color_category	color_name
+manufacturers_id	color_category	color_name	color_image_url
 1	Momeni Custom	Custom	http://s3.amazonaws.com/dealer_ignition/scraping_tools/masland/rugs/Swatches/Ruby-34905.jpg
 2	Momeni Custom	Custom	http://s3.amazonaws.com/dealer_ignition/scraping_tools/masland/rugs/Swatches/Splendid-33103.jpg
 3	Momeni Custom	Custom	http://s3.amazonaws.com/dealer_ignition/scraping_tools/masland/rugs/Swatches/Marrakesh-33205.jpg
