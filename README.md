@@ -5,13 +5,8 @@
 - In the catalogs app either create a new catalog or update an exsiting catalog.
 - Choose the approriate tsv files for the form.
 - Press 'Update' or 'Create'
-	
-## Development
-	The catalog will now be loaded into delayed_jobs. Run `rake jobs:work` to start the import.
-
-## Production
-	The rest of the import will happen automatically.
-
+- **DEVELOPMENT** The catalog will now be loaded into delayed_jobs. Run `rake jobs:work` to start the import.
+- **PRODUCTION** The rest of the import will happen automatically.
 - When the process is complete you should be able to view the catalog.
 
 ### NOTES
