@@ -12,6 +12,7 @@
 ### NOTES
 - Ensure tsv files are UTF-8.
 - You can view import progress by refreshing the catalogs index page.
+- Currently there is a bug you may encounter when importing catalogs in production. The best known solution is to restart the catalogs app `heroku restart --app di-catalogs` and then import the catalog.
 
 
 # Importing Karastan Catalogs
