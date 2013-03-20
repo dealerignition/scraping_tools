@@ -11,6 +11,7 @@
 
 ### NOTES
 - Ensure tsv files are UTF-8.
+- Be sure to replace non-ASCII characters (®, ™, ’, etc.) with an appropriate character or escape code. During the import stage these will be turned into replacement characters (�) and the importer may choke on them.
 - You can view import progress by refreshing the catalogs index page.
 - Currently there is a bug you may encounter when importing catalogs in production. The best known solution is to restart the catalogs app `heroku restart --app di-catalogs` and then import the catalog.
 
