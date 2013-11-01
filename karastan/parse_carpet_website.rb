@@ -18,12 +18,12 @@ def process_page(page)
       next
     end
     
-    name = detail_page.xpath("//span[@id='MainContent_lblStyleName']").inner_text
-    description = detail_page.xpath("//span[@id='MainContent_lblSelectedDetail']").inner_text
+    name = detail_page.xpath("//span[@id='MainContent_lblStyleName']").inner_text.gsub(/\t/,"").gsub(/\r/,"").gsub(/\n/,"")
+    description = detail_page.xpath("//span[@id='MainContent_lblSelectedDetail']").inner_text.gsub(/\t/,"").gsub(/\r/,"").gsub(/\n/,"")
     collection = nil
-    fiber = detail_page.xpath("//span[@id='MainContent_lblFiberName']").inner_text
+    fiber = detail_page.xpath("//span[@id='MainContent_lblFiberName']").inner_text.gsub(/\t/,"").gsub(/\r/,"").gsub(/\n/,"")
     room_url = detail_page.xpath("//div[@class='room_scene']/img")[0].attributes["src"].value
-    warranty = detail_page.xpath("//div[@id='MainContent_pnlWarranty']/ul")
+    warranty = detail_page.xpath("//div[@id='MainContent_pnlWarranty']/ul").to_s.gsub(/\t/,"").gsub(/\r/,"").gsub(/\n/,"")
 
     if @carpets[name]
       @cur_carpet = @carpets[name]
@@ -68,7 +68,7 @@ def process_page(page)
 end
 
 (1..2).each do |page|
-  page = Nokogiri::HTML(open("http://www.karastan.com/product-gallery/carpet-result.aspx?xx=1&IsKarastan=1&pp=24&page=#{page}"))
+  page = Nokogiri::HTML(open("http://www.karastan.com/product-gallery/carpet-result.aspx?xx=1&IsKarastan=1&pp=96&page=#{page}"))
   process_page(page)
 end
 
